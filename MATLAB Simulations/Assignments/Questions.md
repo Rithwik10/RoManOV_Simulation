@@ -1,7 +1,7 @@
 # Question 1:
 
-Trace the phrase "Hello World" with a 2-DOF robotic arm in MATLAB Editor.
+Write a simple MATLAB code that make the end-effector trace the word 'hello' in cursive, with a 2-joint manipulator shown in the examples in chapters.
 
 # Question 2:
 
-Trace the phrase "Hello World" with a 5-DOF and a 6-DOF robotic arms in MATLAB Editor.
+Write a simple MATLAB code that make the end-effector trace the word 'hello' in cursive, with a 5 or 6 DoF arm provided in the Robotics Systems toolbox.
