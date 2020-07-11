@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimscapeMultibodyImportXML xmlns="urn:mathworks:SimscapeMultibody:import"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            version="2.0">
+   <Created by="Cheriyan Parayil" from="Onshape" on="07/03/20||19:03:05"
+            using="Simscape Multibody Exporter"/>
+   <ModelUnits length="inch" mass="pound"/>
+   <DataUnits length="meter" mass="kilogram"/>
+   <RootAssembly name="Robotic Arm Final CAD model v1 v1" uid="ce58369a63473ff6175b1595"
+                 version="w-ebde08aac2253470545482cf">
+      <InstanceTree>
+         <Instance entityUid="JFL*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;3&gt;"
+                   uid="M9+SysprpCG2UI5Uq">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 0.642787592 0.907173431 0.420756896 0.000000000 -0.270457312 0.583119826 -0.766044458 </Rotation>
+               <Translation>-0.225758439 -0.488606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFT*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;5&gt;"
+                   uid="Mlb7dBFvL12UAW/Uv">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 0.642787592 0.907173431 0.420756896 0.000000000 -0.270457312 0.583119826 -0.766044458 </Rotation>
+               <Translation>-0.225758439 -0.488606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFT*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;11&gt;"
+                   uid="MJvAsb4EA1qy+c5+B">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 -0.642787592 -0.907173431 -0.420756896 -0.000000000 -0.270457312 0.583119826 0.766044458 </Rotation>
+               <Translation>-0.225758439 0.431606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFb*:*73cfd3afbd2efd5e56e06df4" name="Jaw 3 &lt;1&gt;"
+                   uid="MJIbyQj/mY7Y6wB0/">
+            <Transform>
+               <Rotation>0.000000000 0.000000000 -1.000000000 -1.000000000 -0.000000000 -0.000000000 -0.000000000 1.000000000 0.000000000 </Rotation>
+               <Translation>0.147600417 -0.028000000 0.533987373 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFL*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;9&gt;"
+                   uid="MrAt09w3zpOtgeBHl">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 -0.642787592 -0.907173431 -0.420756896 -0.000000000 -0.270457312 0.583119826 0.766044458 </Rotation>
+               <Translation>-0.225758439 0.431606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="dbb16237a937424c77523570" name="Jaw 1 &lt;1&gt;" uid="MRAqUY3zZZGIbUUaX">
+            <Transform>
+               <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+               <Translation>0.000000000 -0.000000000 0.081500000 </Translation>
+            </Transform>
+            <Instance entityUid="JF7*:*73cfd3afbd2efd5e56e06df4" name="Jaw 1 &lt;2&gt;"
+                      uid="M6CvK+oOGKnYPBazQ">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>0.000000000 0.000000000 0.000000000 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JF/*:*73cfd3afbd2efd5e56e06df4" name="Jaw 1 &lt;3&gt;"
+                      uid="MoXyst9Y60Hj6GhJD">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>0.000000000 0.000000000 0.000000000 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JFz*:*73cfd3afbd2efd5e56e06df4" name="Component5 &lt;1&gt;"
+                      uid="MofZkDgCEbeWKtSd7">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.000000000 0.000000000 0.002500000 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JF3*:*73cfd3afbd2efd5e56e06df4" name="Jaw 1 &lt;1&gt;"
+                      uid="Mw+f3dK2eeYgV2Bws">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>0.000000000 0.000000000 0.000000000 </Translation>
+               </Transform>
+            </Instance>
+         </Instance>
+         <Instance entityUid="JFj*:*73cfd3afbd2efd5e56e06df4" name="Jaw 5 &lt;1&gt;"
+                   uid="MgPUOXqGkXvejUsWx">
+            <Transform>
+               <Rotation>0.000000000 0.766044443 0.642787610 1.000000000 -0.000000000 0.000000000 0.000000000 0.642787610 -0.766044443 </Rotation>
+               <Translation>-0.304041360 -0.028500000 0.508275869 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFP*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;4&gt;"
+                   uid="M22H96C+4e4AA7GlG">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 0.642787592 0.907173431 0.420756896 0.000000000 -0.270457312 0.583119826 -0.766044458 </Rotation>
+               <Translation>-0.225758439 -0.488606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFf*:*73cfd3afbd2efd5e56e06df4" name="Jaw 6 &lt;1&gt;"
+                   uid="MR5pnqi4XVEXxd/Dn">
+            <Transform>
+               <Rotation>0.642787610 -0.000000000 -0.766044443 0.000000000 -1.000000000 0.000000000 -0.766044443 -0.000000000 -0.642787610 </Rotation>
+               <Translation>-0.343875672 -0.028500000 0.474850913 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFX*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;12&gt;"
+                   uid="MSPX78Z58BxB4woh6">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 -0.642787592 -0.907173431 -0.420756896 -0.000000000 -0.270457312 0.583119826 0.766044458 </Rotation>
+               <Translation>-0.225758439 0.431606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFr*:*73cfd3afbd2efd5e56e06df4" name="Base &lt;1&gt;"
+                   uid="M9te4tvwCHP/yr3Er">
+            <Transform>
+               <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+               <Translation>0.000000000 0.000000000 0.000000000 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFH*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;8&gt;"
+                   uid="M8MjpuTgbCcPf9iu3">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 -0.642787592 -0.907173431 -0.420756896 -0.000000000 -0.270457312 0.583119826 0.766044458 </Rotation>
+               <Translation>-0.225758439 0.431606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="1831e996126b6a55aceece31" name="Jaw 2 &lt;1&gt;" uid="M8+IxXto+AHwlgn9h">
+            <Transform>
+               <Rotation>-0.707106781 -0.707106781 -0.000000000 0.000000000 -0.000000000 1.000000000 -0.707106781 0.707106781 0.000000000 </Rotation>
+               <Translation>-0.149886956 0.020000000 0.241500000 </Translation>
+            </Transform>
+            <Instance entityUid="JFv*:*73cfd3afbd2efd5e56e06df4" name="Jaw 2 &lt;1&gt;"
+                      uid="MKe9CRDjA8mZpXDNV">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>0.000000000 0.000000000 0.000000000 </Translation>
+               </Transform>
+            </Instance>
+         </Instance>
+         <Instance entityUid="JFD*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;7&gt;"
+                   uid="MWSDX81HFR1jMiQWo">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 -0.642787592 -0.907173431 -0.420756896 -0.000000000 -0.270457312 0.583119826 0.766044458 </Rotation>
+               <Translation>-0.225758439 0.431606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFP*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;10&gt;"
+                   uid="MxZR+eLu8NLsVkQHJ">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 -0.642787592 -0.907173431 -0.420756896 -0.000000000 -0.270457312 0.583119826 0.766044458 </Rotation>
+               <Translation>-0.225758439 0.431606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFX*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;6&gt;"
+                   uid="Mxv/3B2JqmKTusM+L">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 0.642787592 0.907173431 0.420756896 0.000000000 -0.270457312 0.583119826 -0.766044458 </Rotation>
+               <Translation>-0.225758439 -0.488606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFn*:*73cfd3afbd2efd5e56e06df4" name="Jaw 4 &lt;1&gt;"
+                   uid="Mu2PcoDmK1bc+42/t">
+            <Transform>
+               <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+               <Translation>-0.163399583 -0.028000000 0.533987373 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFD*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;1&gt;"
+                   uid="MiVnl27s/jRcZEoiK">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 0.642787592 0.907173431 0.420756896 0.000000000 -0.270457312 0.583119826 -0.766044458 </Rotation>
+               <Translation>-0.225758439 -0.488606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFH*:*73cfd3afbd2efd5e56e06df4" name="Jaw 7 &lt;2&gt;"
+                   uid="MdWGau1bytggzqVjb">
+            <Transform>
+               <Rotation>-0.322318488 0.694935179 0.642787592 0.907173431 0.420756896 0.000000000 -0.270457312 0.583119826 -0.766044458 </Rotation>
+               <Translation>-0.225758439 -0.488606343 0.573963034 </Translation>
+            </Transform>
+         </Instance>
+      </InstanceTree>
+      <Constraints/>
+      <Joints/>
+   </RootAssembly>
+   <Assemblies>
+      <Assembly name="Jaw 2" uid="1831e996126b6a55aceece31">
+         <ModelUnits length="inch" mass="pound"/>
+         <Constraints/>
+         <Joints/>
+      </Assembly>
+      <Assembly name="Jaw 1" uid="dbb16237a937424c77523570">
+         <ModelUnits length="inch" mass="pound"/>
+         <Constraints/>
+         <Joints/>
+      </Assembly>
+   </Assemblies>
+   <Parts>
+      <Part name="Jaw 7" uid="JFD*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.001606</Mass>
+            <CenterOfMass>0.518168167 -0.084813811 0.000000000 </CenterOfMass>
+            <Inertia>0.000000085 0.000000085 0.000000002 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 7.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Diffuse a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Specular a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 7" uid="JFH*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.001606</Mass>
+            <CenterOfMass>0.518168167 -0.091563811 0.000000000 </CenterOfMass>
+            <Inertia>0.000000085 0.000000085 0.000000002 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 71.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Diffuse a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Specular a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 7" uid="JFL*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.001606</Mass>
+            <CenterOfMass>0.518168167 -0.098313811 0.000000000 </CenterOfMass>
+            <Inertia>0.000000085 0.000000085 0.000000002 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 72.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Diffuse a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Specular a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 7" uid="JFP*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.001606</Mass>
+            <CenterOfMass>0.518168167 -0.105063811 0.000000000 </CenterOfMass>
+            <Inertia>0.000000085 0.000000085 0.000000002 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 73.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Diffuse a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Specular a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 7" uid="JFT*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.001606</Mass>
+            <CenterOfMass>0.518168167 -0.111813811 0.000000000 </CenterOfMass>
+            <Inertia>0.000000085 0.000000085 0.000000002 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 74.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Diffuse a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Specular a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 7" uid="JFX*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.480088841</Mass>
+            <CenterOfMass>0.492231344 -0.053805464 -0.000000464 </CenterOfMass>
+            <Inertia>0.000508330 0.000155936 0.000615128 -0.000000009 0.000000003 0.000197392 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 75.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Diffuse a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Specular a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 3" uid="JFb*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>11.6523602</Mass>
+            <CenterOfMass>-0.001639122 -0.005757306 0.094012580 </CenterOfMass>
+            <Inertia>0.068625567 0.065444241 0.015568349 -0.002952668 -0.000840620 -0.001006156 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 3.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Diffuse a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Specular a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 6" uid="JFf*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.611691363</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.016294798 </CenterOfMass>
+            <Inertia>0.000305614 0.000257520 0.000321426 -0.000000000 -0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 6.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Diffuse a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Specular a="1.000000000" b="0.137254902" g="0.678431373" r="0.909803922"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 5" uid="JFj*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>2.67706749</Mass>
+            <CenterOfMass>-0.000160197 -0.016808576 0.000000000 </CenterOfMass>
+            <Inertia>0.002817263 0.001918127 0.002790140 0.000000000 0.000000000 0.000024363 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 5.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Diffuse a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Specular a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 4" uid="JFn*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>4.67924112</Mass>
+            <CenterOfMass>-0.064566871 -0.000000012 0.000000001 </CenterOfMass>
+            <Inertia>0.004570594 0.011138069 0.012355941 -0.000000000 0.000000001 -0.000000002 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 4.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Diffuse a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Specular a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Base" uid="JFr*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>44.3330314</Mass>
+            <CenterOfMass>0.000000000 -0.000000000 0.038475294 </CenterOfMass>
+            <Inertia>0.272811527 0.272811527 0.495820128 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Base1.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Diffuse a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Specular a="1.000000000" b="0.172549020" g="0.172549020" r="0.172549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 2" uid="JFv*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>8.45759076</Mass>
+            <CenterOfMass>-0.149809817 -0.009397150 0.016345145 </CenterOfMass>
+            <Inertia>0.005578424 0.152105016 0.155217472 -0.000179840 -0.000137234 -0.001912285 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 2.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.027450980" g="0.556862745" r="0.784313725"/>
+            <Diffuse a="1.000000000" b="0.027450980" g="0.556862745" r="0.784313725"/>
+            <Specular a="1.000000000" b="0.027450980" g="0.556862745" r="0.784313725"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Component5" uid="JFz*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>7.40492854</Mass>
+            <CenterOfMass>-0.000000000 0.000000000 0.018585217 </CenterOfMass>
+            <Inertia>0.015849837 0.015849837 0.029989890 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Component5.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Diffuse a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Specular a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 1" uid="JF3*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>2.41012112</Mass>
+            <CenterOfMass>-0.122214226 -0.030213307 0.142434175 </CenterOfMass>
+            <Inertia>0.003667866 0.010021118 0.006718942 0.000095086 0.003119041 -0.000131437 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 1.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Diffuse a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Specular a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 1" uid="JF7*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>7.89335694</Mass>
+            <CenterOfMass>-0.110078348 -0.000143819 0.134379735 </CenterOfMass>
+            <Inertia>0.016522411 0.042481825 0.028063983 0.000029084 0.011864570 -0.000045191 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 11.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Diffuse a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Specular a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Jaw 1" uid="JF/*:*73cfd3afbd2efd5e56e06df4">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>1.46477459</Mass>
+            <CenterOfMass>0.023457373 -0.000000000 0.056598441 </CenterOfMass>
+            <Inertia>0.000479834 0.002533007 0.002451978 0.000000000 -0.000383942 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Jaw 12.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Diffuse a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Specular a="1.000000000" b="0.000000000" g="0.000000000" r="0.000000000"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+   </Parts>
+</SimscapeMultibodyImportXML>
