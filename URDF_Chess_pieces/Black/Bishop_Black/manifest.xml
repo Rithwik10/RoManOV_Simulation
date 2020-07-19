@@ -7,7 +7,7 @@
 for Bishop_Black robot</p>
   </description>
   <author>TODO</author>
-  <maintainer email="TODO@email.com" />
+  <maintainer email="abhaybhandari2526@gmail.com" />
   <license>BSD</license>
   <buildtool_depend>catkin</buildtool_depend>
   <depend>roslaunch</depend>
