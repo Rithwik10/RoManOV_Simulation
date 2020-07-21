@@ -1,6 +1,57 @@
-%% Loading a robot
-robot = loadrobot("kinovaGen3");
+%% 2-D Path Tracing With Inverse Kinematics
+%% This is the Hello path tracing code
+%% Introduction
+% This example shows how to calculate inverse kinematics for a simple 2D
+% manipulator using the <docid:robotics_ref.bvdhj7x-1 InverseKinematics> class.
+% The manipulator robot is a simple 2-degree-of-freedom planar 
+% manipulator with revolute joints which is created by assembling rigid bodies into 
+% a <docid:robotics_ref.bvan8uq-1 rigidBodyTree> object. A circular trajectory is
+% created in a 2-D plane and given as points to the inverse kinematics solver. The solver
+% calculates the required joint positions to achieve this trajectory.
+% Finally, the robot is animated to show the robot configurations that
+% achieve the circular trajectory.
+%% Construct The Robot
+% Create a |rigidBodyTree| object and rigid bodies with their
+% associated joints. Specify the geometric properties of each rigid body
+% and add it to the robot.
+
+%% 
+% Start with a blank rigid body tree model.
+robot = rigidBodyTree('DataFormat','column','MaxNumBodies',3);
+%%
+% Specify arm lengths for the robot arm.
+L1 = 0.3;
+L2 = 0.6;
+%%
+% Add |'link1'| body with |'joint1'| joint.
+body = rigidBody('link1');
+joint = rigidBodyJoint('joint1', 'revolute');
+setFixedTransform(joint,trvec2tform([0 0 0]));
+joint.JointAxis = [0 0 1];
+body.Joint = joint;
+addBody(robot, body, 'base');
+%%
+% Add |'link2'| body with |'joint2'| joint.
+body = rigidBody('link2');
+joint = rigidBodyJoint('joint2','revolute');
+setFixedTransform(joint, trvec2tform([L1,0,0]));
+joint.JointAxis = [0 0 1];
+body.Joint = joint;
+addBody(robot, body, 'link1');
+%%
+% Add |'tool'| end effector with |'fix1'| fixed joint.
+body = rigidBody('tool');
+joint = rigidBodyJoint('fix1','fixed');
+setFixedTransform(joint, trvec2tform([L2, 0, 0]));
+body.Joint = joint;
+addBody(robot, body, 'link2');
+
+%%
+% Show details of the robot to validate the input properties. The robot
+% should have two non-fixed joints for the rigid bodies and a fixed body
+% for the end-effector.
 showdetails(robot)
+
 %% Define The Trajectory
 % Define a circle to be traced over the course of 10 seconds. This circle
 % is in the _xy_ plane with a radius of 0.15.
@@ -27,8 +78,7 @@ points = [H_points;E1_points;L_points-[0.2,0,0];L_points;O_points];
 % Pre-allocate configuration solutions as a matrix |qs|.
 q0 = homeConfiguration(robot);
 ndof = length(q0);
-clear qs;
-%qs = zeros(count, ndof);
+qs = zeros(count, ndof);
 %%
 % Create the inverse kinematics solver. Because the _xy_ Cartesian points are the
 % only important factors of the end-effector pose for this workflow, 
@@ -36,7 +86,7 @@ clear qs;
 % |weight| vector. All other elements are set to zero.
 ik = inverseKinematics('RigidBodyTree', robot);
 weights = [0, 0, 0, 1, 1, 0];
-endEffector = 'EndEffector_Link';
+endEffector = 'tool';
 
 %%
 % Loop through the trajectory of points to trace the circle. Call the |ik|
@@ -84,3 +134,7 @@ for i = 1:length(points)
     drawnow
     waitfor(r);
 end
+
+
+%% 
+% Copyright 2012 The MathWorks, Inc.
