@@ -1,0 +1,1577 @@
+2020-07-21 23:11:47,078 INFO  Logger.cs: 70 - 
+--------------------------------------------------------------------------------
+2020-07-21 23:11:47,110 INFO  Logger.cs: 71 - Logging commencing for SW2URDF exporter
+2020-07-21 23:11:47,112 INFO  Logger.cs: 73 - Commit version 1.5.1-0-g916b5db
+2020-07-21 23:11:47,113 INFO  Logger.cs: 74 - Build version 1.5.7152.31018
+2020-07-21 23:11:47,124 INFO  SwAddin.cs: 250 - Adding Assembly export to file menu
+2020-07-21 23:11:47,125 INFO  SwAddin.cs: 253 - Adding Part export to file menu
+2020-07-21 23:11:47,146 INFO  SwAddin.cs: 218 - Connecting plugin to SolidWorks
+2020-07-21 23:13:12,077 INFO  SwAddin.cs: 271 - Assembly export called for file ChessBoard_Assembled
+2020-07-21 23:13:12,077 INFO  SwAddin.cs: 276 - Save is required
+2020-07-21 23:13:12,089 INFO  SwAddin.cs: 290 - Saving assembly
+2020-07-21 23:13:12,184 INFO  SwAddin.cs: 293 - Opening property manager
+2020-07-21 23:13:12,614 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ChessBoard_Assembled
+2020-07-21 23:13:12,616 INFO  ExportHelperExtension.cs: 1142 - Found 116 in ChessBoard_Assembled
+2020-07-21 23:13:12,617 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ChessBoard_Assembled
+2020-07-21 23:13:12,617 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-07-21 23:13:12,620 INFO  ExportHelperExtension.cs: 1167 - 83 components to check
+2020-07-21 23:13:12,620 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-112
+2020-07-21 23:13:12,621 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-112
+2020-07-21 23:13:12,621 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-112
+2020-07-21 23:13:12,622 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-113
+2020-07-21 23:13:12,622 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-113
+2020-07-21 23:13:12,622 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-113
+2020-07-21 23:13:12,623 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-110
+2020-07-21 23:13:12,623 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-110
+2020-07-21 23:13:12,623 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-110
+2020-07-21 23:13:12,623 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-111
+2020-07-21 23:13:12,624 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-111
+2020-07-21 23:13:12,624 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-111
+2020-07-21 23:13:12,624 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-103
+2020-07-21 23:13:12,625 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-103
+2020-07-21 23:13:12,625 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-103
+2020-07-21 23:13:12,625 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-101
+2020-07-21 23:13:12,626 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-101
+2020-07-21 23:13:12,626 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-101
+2020-07-21 23:13:12,626 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-102
+2020-07-21 23:13:12,627 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-102
+2020-07-21 23:13:12,627 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-102
+2020-07-21 23:13:12,627 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-104
+2020-07-21 23:13:12,627 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-104
+2020-07-21 23:13:12,628 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-104
+2020-07-21 23:13:12,628 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-106
+2020-07-21 23:13:12,628 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-106
+2020-07-21 23:13:12,629 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-106
+2020-07-21 23:13:12,629 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-105
+2020-07-21 23:13:12,629 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-105
+2020-07-21 23:13:12,629 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-105
+2020-07-21 23:13:12,630 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-100
+2020-07-21 23:13:12,630 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-100
+2020-07-21 23:13:12,630 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-100
+2020-07-21 23:13:12,630 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-107
+2020-07-21 23:13:12,631 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-107
+2020-07-21 23:13:12,631 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-107
+2020-07-21 23:13:12,631 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-108
+2020-07-21 23:13:12,632 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-108
+2020-07-21 23:13:12,632 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-108
+2020-07-21 23:13:12,632 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-109
+2020-07-21 23:13:12,632 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-109
+2020-07-21 23:13:12,633 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-109
+2020-07-21 23:13:12,633 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-98
+2020-07-21 23:13:12,633 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-98
+2020-07-21 23:13:12,634 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-98
+2020-07-21 23:13:12,634 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-99
+2020-07-21 23:13:12,634 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-99
+2020-07-21 23:13:12,634 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-99
+2020-07-21 23:13:12,635 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-1
+2020-07-21 23:13:12,635 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-1
+2020-07-21 23:13:12,635 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-1
+2020-07-21 23:13:12,635 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-66
+2020-07-21 23:13:12,636 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-66
+2020-07-21 23:13:12,636 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-66
+2020-07-21 23:13:12,636 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-1
+2020-07-21 23:13:12,637 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-1
+2020-07-21 23:13:12,637 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-1
+2020-07-21 23:13:12,637 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-109
+2020-07-21 23:13:12,638 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-109
+2020-07-21 23:13:12,638 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-109
+2020-07-21 23:13:12,638 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-111
+2020-07-21 23:13:12,639 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-111
+2020-07-21 23:13:12,639 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-111
+2020-07-21 23:13:12,639 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-106
+2020-07-21 23:13:12,654 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-106
+2020-07-21 23:13:12,654 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-106
+2020-07-21 23:13:12,655 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-110
+2020-07-21 23:13:12,655 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-110
+2020-07-21 23:13:12,655 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-110
+2020-07-21 23:13:12,656 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-112
+2020-07-21 23:13:12,656 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-112
+2020-07-21 23:13:12,657 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-112
+2020-07-21 23:13:12,657 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-103
+2020-07-21 23:13:12,657 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-103
+2020-07-21 23:13:12,657 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-103
+2020-07-21 23:13:12,658 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-107
+2020-07-21 23:13:12,658 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-107
+2020-07-21 23:13:12,658 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-107
+2020-07-21 23:13:12,659 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-102
+2020-07-21 23:13:12,659 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-102
+2020-07-21 23:13:12,659 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-102
+2020-07-21 23:13:12,660 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-104
+2020-07-21 23:13:12,660 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-104
+2020-07-21 23:13:12,660 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-104
+2020-07-21 23:13:12,661 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-105
+2020-07-21 23:13:12,661 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-105
+2020-07-21 23:13:12,661 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-105
+2020-07-21 23:13:12,661 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-108
+2020-07-21 23:13:12,662 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-108
+2020-07-21 23:13:12,662 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-108
+2020-07-21 23:13:12,662 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-101
+2020-07-21 23:13:12,662 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-101
+2020-07-21 23:13:12,663 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-101
+2020-07-21 23:13:12,663 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-87
+2020-07-21 23:13:12,663 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-87
+2020-07-21 23:13:12,664 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-87
+2020-07-21 23:13:12,664 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-84
+2020-07-21 23:13:12,664 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-84
+2020-07-21 23:13:12,664 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-84
+2020-07-21 23:13:12,665 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-85
+2020-07-21 23:13:12,665 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-85
+2020-07-21 23:13:12,665 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-85
+2020-07-21 23:13:12,666 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-80
+2020-07-21 23:13:12,666 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-80
+2020-07-21 23:13:12,666 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-80
+2020-07-21 23:13:12,666 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-82
+2020-07-21 23:13:12,667 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-82
+2020-07-21 23:13:12,667 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-82
+2020-07-21 23:13:12,667 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-81
+2020-07-21 23:13:12,668 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-81
+2020-07-21 23:13:12,668 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-81
+2020-07-21 23:13:12,668 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-86
+2020-07-21 23:13:12,668 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-86
+2020-07-21 23:13:12,669 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-86
+2020-07-21 23:13:12,669 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-88
+2020-07-21 23:13:12,669 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-88
+2020-07-21 23:13:12,669 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-88
+2020-07-21 23:13:12,670 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-78
+2020-07-21 23:13:12,670 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-78
+2020-07-21 23:13:12,670 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-78
+2020-07-21 23:13:12,671 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-79
+2020-07-21 23:13:12,671 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-79
+2020-07-21 23:13:12,671 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-79
+2020-07-21 23:13:12,672 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-77
+2020-07-21 23:13:12,672 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-77
+2020-07-21 23:13:12,672 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-77
+2020-07-21 23:13:12,673 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-83
+2020-07-21 23:13:12,673 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-83
+2020-07-21 23:13:12,673 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-83
+2020-07-21 23:13:12,674 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-70
+2020-07-21 23:13:12,674 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-70
+2020-07-21 23:13:12,674 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-70
+2020-07-21 23:13:12,674 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-73
+2020-07-21 23:13:12,674 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-73
+2020-07-21 23:13:12,674 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-73
+2020-07-21 23:13:12,674 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-75
+2020-07-21 23:13:12,675 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-75
+2020-07-21 23:13:12,675 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-75
+2020-07-21 23:13:12,675 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-72
+2020-07-21 23:13:12,675 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-72
+2020-07-21 23:13:12,676 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-72
+2020-07-21 23:13:12,676 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-74
+2020-07-21 23:13:12,676 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-74
+2020-07-21 23:13:12,677 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-74
+2020-07-21 23:13:12,677 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-76
+2020-07-21 23:13:12,677 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-76
+2020-07-21 23:13:12,677 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-76
+2020-07-21 23:13:12,678 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-127
+2020-07-21 23:13:12,678 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-127
+2020-07-21 23:13:12,678 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-127
+2020-07-21 23:13:12,679 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-119
+2020-07-21 23:13:12,679 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-119
+2020-07-21 23:13:12,679 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-119
+2020-07-21 23:13:12,679 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-116
+2020-07-21 23:13:12,680 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-116
+2020-07-21 23:13:12,680 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-116
+2020-07-21 23:13:12,680 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-115
+2020-07-21 23:13:12,681 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-115
+2020-07-21 23:13:12,681 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-115
+2020-07-21 23:13:12,681 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-118
+2020-07-21 23:13:12,681 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-118
+2020-07-21 23:13:12,682 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-118
+2020-07-21 23:13:12,682 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-124
+2020-07-21 23:13:12,682 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-124
+2020-07-21 23:13:12,683 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-124
+2020-07-21 23:13:12,683 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-125
+2020-07-21 23:13:12,683 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-125
+2020-07-21 23:13:12,683 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-125
+2020-07-21 23:13:12,684 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-68
+2020-07-21 23:13:12,684 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-68
+2020-07-21 23:13:12,684 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-68
+2020-07-21 23:13:12,684 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-126
+2020-07-21 23:13:12,685 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-126
+2020-07-21 23:13:12,685 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-126
+2020-07-21 23:13:12,686 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-128
+2020-07-21 23:13:12,686 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-128
+2020-07-21 23:13:12,686 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-128
+2020-07-21 23:13:12,686 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-121
+2020-07-21 23:13:12,687 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-121
+2020-07-21 23:13:12,687 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-121
+2020-07-21 23:13:12,687 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-120
+2020-07-21 23:13:12,688 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-120
+2020-07-21 23:13:12,688 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-120
+2020-07-21 23:13:12,688 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-122
+2020-07-21 23:13:12,688 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-122
+2020-07-21 23:13:12,689 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-122
+2020-07-21 23:13:12,689 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-117
+2020-07-21 23:13:12,689 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-117
+2020-07-21 23:13:12,690 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-117
+2020-07-21 23:13:12,690 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-114
+2020-07-21 23:13:12,690 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-114
+2020-07-21 23:13:12,690 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-114
+2020-07-21 23:13:12,691 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-123
+2020-07-21 23:13:12,691 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-123
+2020-07-21 23:13:12,691 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-123
+2020-07-21 23:13:12,691 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-67
+2020-07-21 23:13:12,692 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-67
+2020-07-21 23:13:12,692 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-67
+2020-07-21 23:13:12,692 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-69
+2020-07-21 23:13:12,693 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-69
+2020-07-21 23:13:12,693 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-69
+2020-07-21 23:13:12,693 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-71
+2020-07-21 23:13:12,693 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-71
+2020-07-21 23:13:12,694 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-71
+2020-07-21 23:13:12,694 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-89
+2020-07-21 23:13:12,694 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-89
+2020-07-21 23:13:12,695 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-89
+2020-07-21 23:13:12,695 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-90
+2020-07-21 23:13:12,695 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-90
+2020-07-21 23:13:12,695 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-90
+2020-07-21 23:13:12,696 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-92
+2020-07-21 23:13:12,696 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-92
+2020-07-21 23:13:12,696 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-92
+2020-07-21 23:13:12,697 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-94
+2020-07-21 23:13:12,697 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-94
+2020-07-21 23:13:12,697 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-94
+2020-07-21 23:13:12,697 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-96
+2020-07-21 23:13:12,698 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-96
+2020-07-21 23:13:12,698 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-96
+2020-07-21 23:13:12,698 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-98
+2020-07-21 23:13:12,698 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-98
+2020-07-21 23:13:12,699 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-98
+2020-07-21 23:13:12,699 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-99
+2020-07-21 23:13:12,699 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-99
+2020-07-21 23:13:12,700 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-99
+2020-07-21 23:13:12,703 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-100
+2020-07-21 23:13:12,704 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-100
+2020-07-21 23:13:12,704 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-100
+2020-07-21 23:13:12,704 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-93
+2020-07-21 23:13:12,705 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-93
+2020-07-21 23:13:12,705 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-93
+2020-07-21 23:13:12,705 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-97
+2020-07-21 23:13:12,705 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-97
+2020-07-21 23:13:12,706 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-97
+2020-07-21 23:13:12,706 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-95
+2020-07-21 23:13:12,706 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-95
+2020-07-21 23:13:12,707 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-95
+2020-07-21 23:13:12,707 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-91
+2020-07-21 23:13:12,707 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-91
+2020-07-21 23:13:12,707 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-91
+2020-07-21 23:13:12,708 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ChessBoard-1
+2020-07-21 23:13:12,717 INFO  ExportHelperExtension.cs: 1142 - Found 27 in ChessBoard-1
+2020-07-21 23:13:12,717 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ChessBoard-1
+2020-07-21 23:13:12,718 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-113
+2020-07-21 23:13:12,718 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-113
+2020-07-21 23:13:12,718 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-113
+2020-07-21 23:13:12,719 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-114
+2020-07-21 23:13:12,719 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-114
+2020-07-21 23:13:12,719 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-114
+2020-07-21 23:13:12,719 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ChessBoard_Assembled
+2020-07-21 23:13:12,720 INFO  ExportHelperExtension.cs: 1142 - Found 116 in ChessBoard_Assembled
+2020-07-21 23:13:12,720 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ChessBoard_Assembled
+2020-07-21 23:13:12,721 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-07-21 23:13:12,721 INFO  ExportHelperExtension.cs: 1167 - 83 components to check
+2020-07-21 23:13:12,721 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-112
+2020-07-21 23:13:12,721 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-112
+2020-07-21 23:13:12,722 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-112
+2020-07-21 23:13:12,722 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-113
+2020-07-21 23:13:12,722 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-113
+2020-07-21 23:13:12,723 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-113
+2020-07-21 23:13:12,723 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-110
+2020-07-21 23:13:12,723 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-110
+2020-07-21 23:13:12,723 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-110
+2020-07-21 23:13:12,724 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-111
+2020-07-21 23:13:12,724 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-111
+2020-07-21 23:13:12,724 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-111
+2020-07-21 23:13:12,725 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-103
+2020-07-21 23:13:12,725 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-103
+2020-07-21 23:13:12,725 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-103
+2020-07-21 23:13:12,725 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-101
+2020-07-21 23:13:12,726 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-101
+2020-07-21 23:13:12,726 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-101
+2020-07-21 23:13:12,726 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-102
+2020-07-21 23:13:12,727 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-102
+2020-07-21 23:13:12,727 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-102
+2020-07-21 23:13:12,727 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-104
+2020-07-21 23:13:12,727 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-104
+2020-07-21 23:13:12,728 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-104
+2020-07-21 23:13:12,728 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-106
+2020-07-21 23:13:12,728 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-106
+2020-07-21 23:13:12,729 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-106
+2020-07-21 23:13:12,729 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-105
+2020-07-21 23:13:12,729 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-105
+2020-07-21 23:13:12,729 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-105
+2020-07-21 23:13:12,730 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-100
+2020-07-21 23:13:12,730 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-100
+2020-07-21 23:13:12,730 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-100
+2020-07-21 23:13:12,731 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-107
+2020-07-21 23:13:12,731 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-107
+2020-07-21 23:13:12,731 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-107
+2020-07-21 23:13:12,731 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-108
+2020-07-21 23:13:12,732 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-108
+2020-07-21 23:13:12,732 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-108
+2020-07-21 23:13:12,732 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-109
+2020-07-21 23:13:12,733 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-109
+2020-07-21 23:13:12,733 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-109
+2020-07-21 23:13:12,733 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-98
+2020-07-21 23:13:12,733 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-98
+2020-07-21 23:13:12,734 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-98
+2020-07-21 23:13:12,734 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-99
+2020-07-21 23:13:12,734 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-99
+2020-07-21 23:13:12,735 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-99
+2020-07-21 23:13:12,735 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-1
+2020-07-21 23:13:12,735 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-1
+2020-07-21 23:13:12,736 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-1
+2020-07-21 23:13:12,736 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-66
+2020-07-21 23:13:12,736 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-66
+2020-07-21 23:13:12,736 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-66
+2020-07-21 23:13:12,737 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-1
+2020-07-21 23:13:12,737 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-1
+2020-07-21 23:13:12,737 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-1
+2020-07-21 23:13:12,737 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-109
+2020-07-21 23:13:12,738 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-109
+2020-07-21 23:13:12,738 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-109
+2020-07-21 23:13:12,738 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-111
+2020-07-21 23:13:12,739 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-111
+2020-07-21 23:13:12,739 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-111
+2020-07-21 23:13:12,739 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-106
+2020-07-21 23:13:12,739 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-106
+2020-07-21 23:13:12,740 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-106
+2020-07-21 23:13:12,740 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-110
+2020-07-21 23:13:12,740 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-110
+2020-07-21 23:13:12,741 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-110
+2020-07-21 23:13:12,741 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-112
+2020-07-21 23:13:12,741 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-112
+2020-07-21 23:13:12,742 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-112
+2020-07-21 23:13:12,742 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-103
+2020-07-21 23:13:12,742 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-103
+2020-07-21 23:13:12,742 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-103
+2020-07-21 23:13:12,743 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-107
+2020-07-21 23:13:12,743 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-107
+2020-07-21 23:13:12,743 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-107
+2020-07-21 23:13:12,743 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-102
+2020-07-21 23:13:12,744 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-102
+2020-07-21 23:13:12,744 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-102
+2020-07-21 23:13:12,744 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-104
+2020-07-21 23:13:12,745 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-104
+2020-07-21 23:13:12,745 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-104
+2020-07-21 23:13:12,745 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-105
+2020-07-21 23:13:12,745 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-105
+2020-07-21 23:13:12,746 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-105
+2020-07-21 23:13:12,746 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-108
+2020-07-21 23:13:12,746 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-108
+2020-07-21 23:13:12,747 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-108
+2020-07-21 23:13:12,747 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-101
+2020-07-21 23:13:12,747 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-101
+2020-07-21 23:13:12,747 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-101
+2020-07-21 23:13:12,748 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-87
+2020-07-21 23:13:12,748 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-87
+2020-07-21 23:13:12,748 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-87
+2020-07-21 23:13:12,749 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-84
+2020-07-21 23:13:12,749 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-84
+2020-07-21 23:13:12,749 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-84
+2020-07-21 23:13:12,750 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-85
+2020-07-21 23:13:12,750 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-85
+2020-07-21 23:13:12,750 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-85
+2020-07-21 23:13:12,750 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-80
+2020-07-21 23:13:12,751 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-80
+2020-07-21 23:13:12,751 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-80
+2020-07-21 23:13:12,751 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-82
+2020-07-21 23:13:12,752 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-82
+2020-07-21 23:13:12,752 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-82
+2020-07-21 23:13:12,752 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-81
+2020-07-21 23:13:12,753 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-81
+2020-07-21 23:13:12,753 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-81
+2020-07-21 23:13:12,753 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-86
+2020-07-21 23:13:12,753 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-86
+2020-07-21 23:13:12,754 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-86
+2020-07-21 23:13:12,754 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-88
+2020-07-21 23:13:12,754 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-88
+2020-07-21 23:13:12,755 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-88
+2020-07-21 23:13:12,755 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-78
+2020-07-21 23:13:12,755 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-78
+2020-07-21 23:13:12,756 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-78
+2020-07-21 23:13:12,756 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-79
+2020-07-21 23:13:12,756 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-79
+2020-07-21 23:13:12,756 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-79
+2020-07-21 23:13:12,757 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-77
+2020-07-21 23:13:12,757 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-77
+2020-07-21 23:13:12,757 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-77
+2020-07-21 23:13:12,758 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-83
+2020-07-21 23:13:12,758 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-83
+2020-07-21 23:13:12,758 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-83
+2020-07-21 23:13:12,758 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-70
+2020-07-21 23:13:12,759 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-70
+2020-07-21 23:13:12,759 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-70
+2020-07-21 23:13:12,762 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-73
+2020-07-21 23:13:12,762 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-73
+2020-07-21 23:13:12,762 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-73
+2020-07-21 23:13:12,763 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-75
+2020-07-21 23:13:12,763 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-75
+2020-07-21 23:13:12,763 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-75
+2020-07-21 23:13:12,764 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-72
+2020-07-21 23:13:12,764 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-72
+2020-07-21 23:13:12,764 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-72
+2020-07-21 23:13:12,764 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-74
+2020-07-21 23:13:12,765 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-74
+2020-07-21 23:13:12,765 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-74
+2020-07-21 23:13:12,765 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-76
+2020-07-21 23:13:12,766 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-76
+2020-07-21 23:13:12,766 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-76
+2020-07-21 23:13:12,766 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-127
+2020-07-21 23:13:12,775 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-127
+2020-07-21 23:13:12,775 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-127
+2020-07-21 23:13:12,775 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-119
+2020-07-21 23:13:12,776 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-119
+2020-07-21 23:13:12,776 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-119
+2020-07-21 23:13:12,776 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-116
+2020-07-21 23:13:12,776 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-116
+2020-07-21 23:13:12,777 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-116
+2020-07-21 23:13:12,777 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-115
+2020-07-21 23:13:12,777 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-115
+2020-07-21 23:13:12,778 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-115
+2020-07-21 23:13:12,778 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-118
+2020-07-21 23:13:12,778 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-118
+2020-07-21 23:13:12,778 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-118
+2020-07-21 23:13:12,779 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-124
+2020-07-21 23:13:12,779 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-124
+2020-07-21 23:13:12,779 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-124
+2020-07-21 23:13:12,780 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-125
+2020-07-21 23:13:12,780 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-125
+2020-07-21 23:13:12,780 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-125
+2020-07-21 23:13:12,780 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-68
+2020-07-21 23:13:12,781 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-68
+2020-07-21 23:13:12,781 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-68
+2020-07-21 23:13:12,781 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-126
+2020-07-21 23:13:12,782 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-126
+2020-07-21 23:13:12,782 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-126
+2020-07-21 23:13:12,782 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-128
+2020-07-21 23:13:12,783 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-128
+2020-07-21 23:13:12,783 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-128
+2020-07-21 23:13:12,783 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-121
+2020-07-21 23:13:12,783 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-121
+2020-07-21 23:13:12,784 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-121
+2020-07-21 23:13:12,784 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-120
+2020-07-21 23:13:12,784 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-120
+2020-07-21 23:13:12,785 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-120
+2020-07-21 23:13:12,785 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-122
+2020-07-21 23:13:12,785 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-122
+2020-07-21 23:13:12,785 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-122
+2020-07-21 23:13:12,786 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-117
+2020-07-21 23:13:12,786 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-117
+2020-07-21 23:13:12,786 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-117
+2020-07-21 23:13:12,786 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-114
+2020-07-21 23:13:12,787 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-114
+2020-07-21 23:13:12,787 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-114
+2020-07-21 23:13:12,787 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-123
+2020-07-21 23:13:12,788 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-123
+2020-07-21 23:13:12,788 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-123
+2020-07-21 23:13:12,788 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-67
+2020-07-21 23:13:12,788 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-67
+2020-07-21 23:13:12,789 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-67
+2020-07-21 23:13:12,789 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-69
+2020-07-21 23:13:12,789 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-69
+2020-07-21 23:13:12,790 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-69
+2020-07-21 23:13:12,790 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-71
+2020-07-21 23:13:12,790 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-71
+2020-07-21 23:13:12,791 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-71
+2020-07-21 23:13:12,791 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-89
+2020-07-21 23:13:12,791 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-89
+2020-07-21 23:13:12,791 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-89
+2020-07-21 23:13:12,792 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-90
+2020-07-21 23:13:12,792 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-90
+2020-07-21 23:13:12,792 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-90
+2020-07-21 23:13:12,792 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-92
+2020-07-21 23:13:12,793 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-92
+2020-07-21 23:13:12,793 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-92
+2020-07-21 23:13:12,793 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-94
+2020-07-21 23:13:12,794 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-94
+2020-07-21 23:13:12,794 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-94
+2020-07-21 23:13:12,794 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-96
+2020-07-21 23:13:12,794 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-96
+2020-07-21 23:13:12,795 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-96
+2020-07-21 23:13:12,795 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-98
+2020-07-21 23:13:12,795 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-98
+2020-07-21 23:13:12,796 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-98
+2020-07-21 23:13:12,796 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-99
+2020-07-21 23:13:12,796 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-99
+2020-07-21 23:13:12,796 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-99
+2020-07-21 23:13:12,797 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-100
+2020-07-21 23:13:12,797 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-100
+2020-07-21 23:13:12,797 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-100
+2020-07-21 23:13:12,798 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-93
+2020-07-21 23:13:12,798 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-93
+2020-07-21 23:13:12,798 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-93
+2020-07-21 23:13:12,798 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-97
+2020-07-21 23:13:12,799 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-97
+2020-07-21 23:13:12,799 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-97
+2020-07-21 23:13:12,799 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-95
+2020-07-21 23:13:12,800 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-95
+2020-07-21 23:13:12,800 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-95
+2020-07-21 23:13:12,800 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-91
+2020-07-21 23:13:12,801 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-91
+2020-07-21 23:13:12,801 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-91
+2020-07-21 23:13:12,801 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ChessBoard-1
+2020-07-21 23:13:12,801 INFO  ExportHelperExtension.cs: 1142 - Found 27 in ChessBoard-1
+2020-07-21 23:13:12,802 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ChessBoard-1
+2020-07-21 23:13:12,802 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-113
+2020-07-21 23:13:12,802 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-113
+2020-07-21 23:13:12,803 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-113
+2020-07-21 23:13:12,803 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-114
+2020-07-21 23:13:12,803 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-114
+2020-07-21 23:13:12,804 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-114
+2020-07-21 23:13:13,093 INFO  SwAddin.cs: 316 - Loading config tree
+2020-07-21 23:13:13,104 INFO  ExportPropertyManagerExtension.cs: 597 - Starting new configuration
+2020-07-21 23:13:13,107 INFO  SwAddin.cs: 321 - Showing property manager
+2020-07-21 23:14:53,690 INFO  ExportPropertyManager.cs: 1184 - AfterClose called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2020-07-21 23:14:57,245 INFO  SwAddin.cs: 271 - Assembly export called for file ChessBoard_Assembled
+2020-07-21 23:15:00,798 INFO  SwAddin.cs: 290 - Saving assembly
+2020-07-21 23:15:00,892 INFO  SwAddin.cs: 293 - Opening property manager
+2020-07-21 23:15:00,893 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ChessBoard_Assembled
+2020-07-21 23:15:00,894 INFO  ExportHelperExtension.cs: 1142 - Found 116 in ChessBoard_Assembled
+2020-07-21 23:15:00,895 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ChessBoard_Assembled
+2020-07-21 23:15:00,895 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-07-21 23:15:00,896 INFO  ExportHelperExtension.cs: 1167 - 83 components to check
+2020-07-21 23:15:00,896 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-112
+2020-07-21 23:15:00,896 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-112
+2020-07-21 23:15:00,897 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-112
+2020-07-21 23:15:00,897 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-113
+2020-07-21 23:15:00,898 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-113
+2020-07-21 23:15:00,898 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-113
+2020-07-21 23:15:00,898 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-110
+2020-07-21 23:15:00,899 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-110
+2020-07-21 23:15:00,899 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-110
+2020-07-21 23:15:00,900 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-111
+2020-07-21 23:15:00,900 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-111
+2020-07-21 23:15:00,901 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-111
+2020-07-21 23:15:00,901 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-103
+2020-07-21 23:15:00,902 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-103
+2020-07-21 23:15:00,902 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-103
+2020-07-21 23:15:00,903 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-101
+2020-07-21 23:15:00,903 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-101
+2020-07-21 23:15:00,904 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-101
+2020-07-21 23:15:00,904 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-102
+2020-07-21 23:15:00,905 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-102
+2020-07-21 23:15:00,906 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-102
+2020-07-21 23:15:00,906 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-104
+2020-07-21 23:15:00,907 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-104
+2020-07-21 23:15:00,907 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-104
+2020-07-21 23:15:00,908 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-106
+2020-07-21 23:15:00,909 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-106
+2020-07-21 23:15:00,910 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-106
+2020-07-21 23:15:00,911 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-105
+2020-07-21 23:15:00,911 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-105
+2020-07-21 23:15:00,912 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-105
+2020-07-21 23:15:00,912 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-100
+2020-07-21 23:15:00,913 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-100
+2020-07-21 23:15:00,913 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-100
+2020-07-21 23:15:00,914 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-107
+2020-07-21 23:15:00,914 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-107
+2020-07-21 23:15:00,915 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-107
+2020-07-21 23:15:00,915 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-108
+2020-07-21 23:15:00,916 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-108
+2020-07-21 23:15:00,917 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-108
+2020-07-21 23:15:00,917 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-109
+2020-07-21 23:15:00,918 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-109
+2020-07-21 23:15:00,918 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-109
+2020-07-21 23:15:00,919 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-98
+2020-07-21 23:15:00,919 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-98
+2020-07-21 23:15:00,920 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-98
+2020-07-21 23:15:00,920 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-99
+2020-07-21 23:15:00,921 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-99
+2020-07-21 23:15:00,922 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-99
+2020-07-21 23:15:00,922 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-1
+2020-07-21 23:15:00,923 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-1
+2020-07-21 23:15:00,923 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-1
+2020-07-21 23:15:00,924 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-66
+2020-07-21 23:15:00,924 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-66
+2020-07-21 23:15:00,925 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-66
+2020-07-21 23:15:00,926 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-1
+2020-07-21 23:15:00,927 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-1
+2020-07-21 23:15:00,927 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-1
+2020-07-21 23:15:00,928 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-109
+2020-07-21 23:15:00,928 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-109
+2020-07-21 23:15:00,928 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-109
+2020-07-21 23:15:00,931 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-111
+2020-07-21 23:15:00,932 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-111
+2020-07-21 23:15:00,932 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-111
+2020-07-21 23:15:00,932 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-106
+2020-07-21 23:15:00,933 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-106
+2020-07-21 23:15:00,933 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-106
+2020-07-21 23:15:00,934 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-110
+2020-07-21 23:15:00,934 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-110
+2020-07-21 23:15:00,935 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-110
+2020-07-21 23:15:00,936 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-112
+2020-07-21 23:15:00,936 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-112
+2020-07-21 23:15:00,936 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-112
+2020-07-21 23:15:00,937 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-103
+2020-07-21 23:15:00,938 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-103
+2020-07-21 23:15:00,938 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-103
+2020-07-21 23:15:00,939 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-107
+2020-07-21 23:15:00,939 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-107
+2020-07-21 23:15:00,940 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-107
+2020-07-21 23:15:00,940 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-102
+2020-07-21 23:15:00,941 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-102
+2020-07-21 23:15:00,941 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-102
+2020-07-21 23:15:00,942 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-104
+2020-07-21 23:15:00,942 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-104
+2020-07-21 23:15:00,942 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-104
+2020-07-21 23:15:00,943 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-105
+2020-07-21 23:15:00,943 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-105
+2020-07-21 23:15:00,944 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-105
+2020-07-21 23:15:00,944 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-108
+2020-07-21 23:15:00,944 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-108
+2020-07-21 23:15:00,945 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-108
+2020-07-21 23:15:00,945 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-101
+2020-07-21 23:15:00,946 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-101
+2020-07-21 23:15:00,946 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-101
+2020-07-21 23:15:00,946 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-87
+2020-07-21 23:15:00,947 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-87
+2020-07-21 23:15:00,947 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-87
+2020-07-21 23:15:00,948 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-84
+2020-07-21 23:15:00,948 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-84
+2020-07-21 23:15:00,949 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-84
+2020-07-21 23:15:00,949 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-85
+2020-07-21 23:15:00,949 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-85
+2020-07-21 23:15:00,950 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-85
+2020-07-21 23:15:00,950 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-80
+2020-07-21 23:15:00,951 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-80
+2020-07-21 23:15:00,951 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-80
+2020-07-21 23:15:00,952 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-82
+2020-07-21 23:15:00,952 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-82
+2020-07-21 23:15:00,953 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-82
+2020-07-21 23:15:00,953 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-81
+2020-07-21 23:15:00,953 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-81
+2020-07-21 23:15:00,954 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-81
+2020-07-21 23:15:00,954 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-86
+2020-07-21 23:15:00,954 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-86
+2020-07-21 23:15:00,955 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-86
+2020-07-21 23:15:00,955 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-88
+2020-07-21 23:15:00,956 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-88
+2020-07-21 23:15:00,957 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-88
+2020-07-21 23:15:00,958 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-78
+2020-07-21 23:15:00,959 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-78
+2020-07-21 23:15:00,960 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-78
+2020-07-21 23:15:00,961 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-79
+2020-07-21 23:15:00,961 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-79
+2020-07-21 23:15:00,963 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-79
+2020-07-21 23:15:00,963 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-77
+2020-07-21 23:15:00,964 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-77
+2020-07-21 23:15:00,965 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-77
+2020-07-21 23:15:00,966 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-83
+2020-07-21 23:15:00,967 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-83
+2020-07-21 23:15:00,968 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-83
+2020-07-21 23:15:00,969 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-70
+2020-07-21 23:15:00,970 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-70
+2020-07-21 23:15:00,971 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-70
+2020-07-21 23:15:00,971 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-73
+2020-07-21 23:15:00,971 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-73
+2020-07-21 23:15:00,972 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-73
+2020-07-21 23:15:00,972 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-75
+2020-07-21 23:15:00,973 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-75
+2020-07-21 23:15:00,973 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-75
+2020-07-21 23:15:00,973 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-72
+2020-07-21 23:15:00,974 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-72
+2020-07-21 23:15:00,974 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-72
+2020-07-21 23:15:00,975 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-74
+2020-07-21 23:15:00,975 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-74
+2020-07-21 23:15:00,975 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-74
+2020-07-21 23:15:00,976 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-76
+2020-07-21 23:15:00,976 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-76
+2020-07-21 23:15:00,976 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-76
+2020-07-21 23:15:00,977 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-127
+2020-07-21 23:15:01,088 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-127
+2020-07-21 23:15:01,088 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-127
+2020-07-21 23:15:01,089 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-119
+2020-07-21 23:15:01,089 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-119
+2020-07-21 23:15:01,089 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-119
+2020-07-21 23:15:01,090 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-116
+2020-07-21 23:15:01,090 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-116
+2020-07-21 23:15:01,090 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-116
+2020-07-21 23:15:01,091 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-115
+2020-07-21 23:15:01,091 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-115
+2020-07-21 23:15:01,091 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-115
+2020-07-21 23:15:01,092 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-118
+2020-07-21 23:15:01,092 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-118
+2020-07-21 23:15:01,092 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-118
+2020-07-21 23:15:01,093 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-124
+2020-07-21 23:15:01,093 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-124
+2020-07-21 23:15:01,093 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-124
+2020-07-21 23:15:01,093 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-125
+2020-07-21 23:15:01,094 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-125
+2020-07-21 23:15:01,094 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-125
+2020-07-21 23:15:01,094 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-68
+2020-07-21 23:15:01,095 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-68
+2020-07-21 23:15:01,095 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-68
+2020-07-21 23:15:01,095 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-126
+2020-07-21 23:15:01,096 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-126
+2020-07-21 23:15:01,096 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-126
+2020-07-21 23:15:01,096 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-128
+2020-07-21 23:15:01,097 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-128
+2020-07-21 23:15:01,097 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-128
+2020-07-21 23:15:01,097 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-121
+2020-07-21 23:15:01,098 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-121
+2020-07-21 23:15:01,098 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-121
+2020-07-21 23:15:01,098 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-120
+2020-07-21 23:15:01,099 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-120
+2020-07-21 23:15:01,099 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-120
+2020-07-21 23:15:01,099 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-122
+2020-07-21 23:15:01,100 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-122
+2020-07-21 23:15:01,100 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-122
+2020-07-21 23:15:01,100 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-117
+2020-07-21 23:15:01,101 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-117
+2020-07-21 23:15:01,101 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-117
+2020-07-21 23:15:01,101 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-114
+2020-07-21 23:15:01,102 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-114
+2020-07-21 23:15:01,102 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-114
+2020-07-21 23:15:01,102 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-123
+2020-07-21 23:15:01,103 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-123
+2020-07-21 23:15:01,103 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-123
+2020-07-21 23:15:01,103 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-67
+2020-07-21 23:15:01,104 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-67
+2020-07-21 23:15:01,104 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-67
+2020-07-21 23:15:01,104 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-69
+2020-07-21 23:15:01,104 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-69
+2020-07-21 23:15:01,105 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-69
+2020-07-21 23:15:01,105 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-71
+2020-07-21 23:15:01,106 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-71
+2020-07-21 23:15:01,106 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-71
+2020-07-21 23:15:01,106 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-89
+2020-07-21 23:15:01,107 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-89
+2020-07-21 23:15:01,107 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-89
+2020-07-21 23:15:01,107 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-90
+2020-07-21 23:15:01,108 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-90
+2020-07-21 23:15:01,109 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-90
+2020-07-21 23:15:01,109 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-92
+2020-07-21 23:15:01,109 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-92
+2020-07-21 23:15:01,110 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-92
+2020-07-21 23:15:01,110 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-94
+2020-07-21 23:15:01,111 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-94
+2020-07-21 23:15:01,111 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-94
+2020-07-21 23:15:01,111 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-96
+2020-07-21 23:15:01,112 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-96
+2020-07-21 23:15:01,112 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-96
+2020-07-21 23:15:01,112 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-98
+2020-07-21 23:15:01,116 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-98
+2020-07-21 23:15:01,116 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-98
+2020-07-21 23:15:01,117 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-99
+2020-07-21 23:15:01,117 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-99
+2020-07-21 23:15:01,117 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-99
+2020-07-21 23:15:01,118 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-100
+2020-07-21 23:15:01,118 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-100
+2020-07-21 23:15:01,118 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-100
+2020-07-21 23:15:01,119 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-93
+2020-07-21 23:15:01,119 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-93
+2020-07-21 23:15:01,119 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-93
+2020-07-21 23:15:01,120 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-97
+2020-07-21 23:15:01,120 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-97
+2020-07-21 23:15:01,120 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-97
+2020-07-21 23:15:01,120 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-95
+2020-07-21 23:15:01,121 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-95
+2020-07-21 23:15:01,121 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-95
+2020-07-21 23:15:01,121 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-91
+2020-07-21 23:15:01,122 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-91
+2020-07-21 23:15:01,122 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-91
+2020-07-21 23:15:01,122 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ChessBoard-1
+2020-07-21 23:15:01,136 INFO  ExportHelperExtension.cs: 1142 - Found 27 in ChessBoard-1
+2020-07-21 23:15:01,136 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ChessBoard-1
+2020-07-21 23:15:01,137 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-113
+2020-07-21 23:15:01,137 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-113
+2020-07-21 23:15:01,138 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-113
+2020-07-21 23:15:01,138 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-114
+2020-07-21 23:15:01,138 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-114
+2020-07-21 23:15:01,139 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-114
+2020-07-21 23:15:01,139 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ChessBoard_Assembled
+2020-07-21 23:15:01,139 INFO  ExportHelperExtension.cs: 1142 - Found 116 in ChessBoard_Assembled
+2020-07-21 23:15:01,140 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ChessBoard_Assembled
+2020-07-21 23:15:01,141 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-07-21 23:15:01,141 INFO  ExportHelperExtension.cs: 1167 - 83 components to check
+2020-07-21 23:15:01,141 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-112
+2020-07-21 23:15:01,142 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-112
+2020-07-21 23:15:01,142 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-112
+2020-07-21 23:15:01,143 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-113
+2020-07-21 23:15:01,143 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-113
+2020-07-21 23:15:01,143 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-113
+2020-07-21 23:15:01,144 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-110
+2020-07-21 23:15:01,144 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-110
+2020-07-21 23:15:01,145 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-110
+2020-07-21 23:15:01,145 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-111
+2020-07-21 23:15:01,145 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-111
+2020-07-21 23:15:01,146 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-111
+2020-07-21 23:15:01,146 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-103
+2020-07-21 23:15:01,147 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-103
+2020-07-21 23:15:01,147 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-103
+2020-07-21 23:15:01,148 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-101
+2020-07-21 23:15:01,148 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-101
+2020-07-21 23:15:01,149 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-101
+2020-07-21 23:15:01,149 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-102
+2020-07-21 23:15:01,149 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-102
+2020-07-21 23:15:01,150 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-102
+2020-07-21 23:15:01,150 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-104
+2020-07-21 23:15:01,150 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-104
+2020-07-21 23:15:01,151 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-104
+2020-07-21 23:15:01,151 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-106
+2020-07-21 23:15:01,151 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-106
+2020-07-21 23:15:01,152 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-106
+2020-07-21 23:15:01,152 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-105
+2020-07-21 23:15:01,152 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-105
+2020-07-21 23:15:01,153 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-105
+2020-07-21 23:15:01,153 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-100
+2020-07-21 23:15:01,153 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-100
+2020-07-21 23:15:01,154 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-100
+2020-07-21 23:15:01,154 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-107
+2020-07-21 23:15:01,154 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-107
+2020-07-21 23:15:01,155 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-107
+2020-07-21 23:15:01,155 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-108
+2020-07-21 23:15:01,155 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-108
+2020-07-21 23:15:01,156 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-108
+2020-07-21 23:15:01,156 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-109
+2020-07-21 23:15:01,156 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-109
+2020-07-21 23:15:01,157 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-109
+2020-07-21 23:15:01,157 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-98
+2020-07-21 23:15:01,157 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-98
+2020-07-21 23:15:01,158 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-98
+2020-07-21 23:15:01,158 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-99
+2020-07-21 23:15:01,158 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-99
+2020-07-21 23:15:01,159 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-99
+2020-07-21 23:15:01,159 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-1
+2020-07-21 23:15:01,159 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-1
+2020-07-21 23:15:01,160 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-1
+2020-07-21 23:15:01,160 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-66
+2020-07-21 23:15:01,160 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-66
+2020-07-21 23:15:01,161 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-66
+2020-07-21 23:15:01,161 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-1
+2020-07-21 23:15:01,161 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-1
+2020-07-21 23:15:01,162 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-1
+2020-07-21 23:15:01,162 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-109
+2020-07-21 23:15:01,162 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-109
+2020-07-21 23:15:01,163 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-109
+2020-07-21 23:15:01,163 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-111
+2020-07-21 23:15:01,163 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-111
+2020-07-21 23:15:01,164 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-111
+2020-07-21 23:15:01,164 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-106
+2020-07-21 23:15:01,164 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-106
+2020-07-21 23:15:01,165 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-106
+2020-07-21 23:15:01,165 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-110
+2020-07-21 23:15:01,165 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-110
+2020-07-21 23:15:01,166 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-110
+2020-07-21 23:15:01,166 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-112
+2020-07-21 23:15:01,166 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-112
+2020-07-21 23:15:01,167 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-112
+2020-07-21 23:15:01,167 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-103
+2020-07-21 23:15:01,167 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-103
+2020-07-21 23:15:01,168 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-103
+2020-07-21 23:15:01,168 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-107
+2020-07-21 23:15:01,168 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-107
+2020-07-21 23:15:01,169 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-107
+2020-07-21 23:15:01,169 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-102
+2020-07-21 23:15:01,169 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-102
+2020-07-21 23:15:01,170 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-102
+2020-07-21 23:15:01,170 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-104
+2020-07-21 23:15:01,170 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-104
+2020-07-21 23:15:01,171 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-104
+2020-07-21 23:15:01,171 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-105
+2020-07-21 23:15:01,171 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-105
+2020-07-21 23:15:01,172 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-105
+2020-07-21 23:15:01,172 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-108
+2020-07-21 23:15:01,172 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-108
+2020-07-21 23:15:01,173 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-108
+2020-07-21 23:15:01,173 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-101
+2020-07-21 23:15:01,173 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-101
+2020-07-21 23:15:01,174 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-101
+2020-07-21 23:15:01,174 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-87
+2020-07-21 23:15:01,174 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-87
+2020-07-21 23:15:01,175 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-87
+2020-07-21 23:15:01,175 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-84
+2020-07-21 23:15:01,176 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-84
+2020-07-21 23:15:01,176 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-84
+2020-07-21 23:15:01,176 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-85
+2020-07-21 23:15:01,178 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-85
+2020-07-21 23:15:01,179 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-85
+2020-07-21 23:15:01,179 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-80
+2020-07-21 23:15:01,179 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-80
+2020-07-21 23:15:01,179 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-80
+2020-07-21 23:15:01,179 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-82
+2020-07-21 23:15:01,179 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-82
+2020-07-21 23:15:01,180 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-82
+2020-07-21 23:15:01,180 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-81
+2020-07-21 23:15:01,180 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-81
+2020-07-21 23:15:01,181 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-81
+2020-07-21 23:15:01,181 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-86
+2020-07-21 23:15:01,181 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-86
+2020-07-21 23:15:01,182 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-86
+2020-07-21 23:15:01,182 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-88
+2020-07-21 23:15:01,182 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-88
+2020-07-21 23:15:01,183 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-88
+2020-07-21 23:15:01,183 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-78
+2020-07-21 23:15:01,183 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-78
+2020-07-21 23:15:01,184 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-78
+2020-07-21 23:15:01,184 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-79
+2020-07-21 23:15:01,184 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-79
+2020-07-21 23:15:01,185 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-79
+2020-07-21 23:15:01,185 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-77
+2020-07-21 23:15:01,185 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-77
+2020-07-21 23:15:01,186 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-77
+2020-07-21 23:15:01,186 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-83
+2020-07-21 23:15:01,190 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-83
+2020-07-21 23:15:01,191 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-83
+2020-07-21 23:15:01,191 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-70
+2020-07-21 23:15:01,192 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-70
+2020-07-21 23:15:01,192 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-70
+2020-07-21 23:15:01,192 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-73
+2020-07-21 23:15:01,193 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-73
+2020-07-21 23:15:01,193 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-73
+2020-07-21 23:15:01,194 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-75
+2020-07-21 23:15:01,194 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-75
+2020-07-21 23:15:01,194 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-75
+2020-07-21 23:15:01,195 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-72
+2020-07-21 23:15:01,195 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-72
+2020-07-21 23:15:01,195 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-72
+2020-07-21 23:15:01,196 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-74
+2020-07-21 23:15:01,196 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-74
+2020-07-21 23:15:01,197 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-74
+2020-07-21 23:15:01,197 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-76
+2020-07-21 23:15:01,197 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-76
+2020-07-21 23:15:01,198 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-76
+2020-07-21 23:15:01,198 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-127
+2020-07-21 23:15:01,214 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-127
+2020-07-21 23:15:01,215 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-127
+2020-07-21 23:15:01,215 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-119
+2020-07-21 23:15:01,215 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-119
+2020-07-21 23:15:01,216 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-119
+2020-07-21 23:15:01,216 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-116
+2020-07-21 23:15:01,217 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-116
+2020-07-21 23:15:01,217 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-116
+2020-07-21 23:15:01,217 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-115
+2020-07-21 23:15:01,218 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-115
+2020-07-21 23:15:01,218 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-115
+2020-07-21 23:15:01,218 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-118
+2020-07-21 23:15:01,219 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-118
+2020-07-21 23:15:01,219 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-118
+2020-07-21 23:15:01,220 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-124
+2020-07-21 23:15:01,220 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-124
+2020-07-21 23:15:01,220 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-124
+2020-07-21 23:15:01,221 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-125
+2020-07-21 23:15:01,221 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-125
+2020-07-21 23:15:01,222 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-125
+2020-07-21 23:15:01,222 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-68
+2020-07-21 23:15:01,222 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-68
+2020-07-21 23:15:01,223 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-68
+2020-07-21 23:15:01,223 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-126
+2020-07-21 23:15:01,223 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-126
+2020-07-21 23:15:01,224 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-126
+2020-07-21 23:15:01,224 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-128
+2020-07-21 23:15:01,224 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-128
+2020-07-21 23:15:01,225 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-128
+2020-07-21 23:15:01,225 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-121
+2020-07-21 23:15:01,225 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-121
+2020-07-21 23:15:01,226 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-121
+2020-07-21 23:15:01,226 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-120
+2020-07-21 23:15:01,226 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-120
+2020-07-21 23:15:01,227 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-120
+2020-07-21 23:15:01,227 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-122
+2020-07-21 23:15:01,227 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-122
+2020-07-21 23:15:01,228 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-122
+2020-07-21 23:15:01,228 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-117
+2020-07-21 23:15:01,228 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-117
+2020-07-21 23:15:01,229 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-117
+2020-07-21 23:15:01,229 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-114
+2020-07-21 23:15:01,229 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-114
+2020-07-21 23:15:01,230 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-114
+2020-07-21 23:15:01,230 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-123
+2020-07-21 23:15:01,230 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-123
+2020-07-21 23:15:01,231 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-123
+2020-07-21 23:15:01,231 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-67
+2020-07-21 23:15:01,231 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-67
+2020-07-21 23:15:01,232 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-67
+2020-07-21 23:15:01,232 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-69
+2020-07-21 23:15:01,232 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-69
+2020-07-21 23:15:01,233 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-69
+2020-07-21 23:15:01,233 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-71
+2020-07-21 23:15:01,233 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-71
+2020-07-21 23:15:01,234 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-71
+2020-07-21 23:15:01,234 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-89
+2020-07-21 23:15:01,234 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-89
+2020-07-21 23:15:01,235 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-89
+2020-07-21 23:15:01,235 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-90
+2020-07-21 23:15:01,235 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-90
+2020-07-21 23:15:01,236 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-90
+2020-07-21 23:15:01,236 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-92
+2020-07-21 23:15:01,236 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-92
+2020-07-21 23:15:01,237 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-92
+2020-07-21 23:15:01,237 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-94
+2020-07-21 23:15:01,237 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-94
+2020-07-21 23:15:01,238 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-94
+2020-07-21 23:15:01,238 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-96
+2020-07-21 23:15:01,238 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-96
+2020-07-21 23:15:01,239 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-96
+2020-07-21 23:15:01,239 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-98
+2020-07-21 23:15:01,239 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-98
+2020-07-21 23:15:01,240 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-98
+2020-07-21 23:15:01,240 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-99
+2020-07-21 23:15:01,241 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-99
+2020-07-21 23:15:01,241 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-99
+2020-07-21 23:15:01,241 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-100
+2020-07-21 23:15:01,242 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-100
+2020-07-21 23:15:01,242 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-100
+2020-07-21 23:15:01,242 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-93
+2020-07-21 23:15:01,243 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-93
+2020-07-21 23:15:01,243 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-93
+2020-07-21 23:15:01,243 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-97
+2020-07-21 23:15:01,244 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-97
+2020-07-21 23:15:01,244 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-97
+2020-07-21 23:15:01,244 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-95
+2020-07-21 23:15:01,245 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-95
+2020-07-21 23:15:01,245 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-95
+2020-07-21 23:15:01,245 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-91
+2020-07-21 23:15:01,246 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-91
+2020-07-21 23:15:01,246 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-91
+2020-07-21 23:15:01,246 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ChessBoard-1
+2020-07-21 23:15:01,247 INFO  ExportHelperExtension.cs: 1142 - Found 27 in ChessBoard-1
+2020-07-21 23:15:01,247 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ChessBoard-1
+2020-07-21 23:15:01,247 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-113
+2020-07-21 23:15:01,248 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-113
+2020-07-21 23:15:01,248 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-113
+2020-07-21 23:15:01,248 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-114
+2020-07-21 23:15:01,249 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-114
+2020-07-21 23:15:01,249 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-114
+2020-07-21 23:15:01,279 INFO  SwAddin.cs: 316 - Loading config tree
+2020-07-21 23:15:01,281 INFO  ExportPropertyManagerExtension.cs: 597 - Starting new configuration
+2020-07-21 23:15:01,283 INFO  SwAddin.cs: 321 - Showing property manager
+2020-07-21 23:15:14,985 INFO  ExportPropertyManager.cs: 456 - Configuration saved
+2020-07-21 23:15:17,574 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ChessBoard_Assembled
+2020-07-21 23:15:17,577 INFO  ExportHelperExtension.cs: 1142 - Found 119 in ChessBoard_Assembled
+2020-07-21 23:15:17,578 INFO  ExportHelperExtension.cs: 1152 - Found 1 features of type [CoordSys] in ChessBoard_Assembled
+2020-07-21 23:15:17,579 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-07-21 23:15:17,579 INFO  ExportHelperExtension.cs: 1167 - 83 components to check
+2020-07-21 23:15:17,579 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-112
+2020-07-21 23:15:17,580 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-112
+2020-07-21 23:15:17,580 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-112
+2020-07-21 23:15:17,581 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-113
+2020-07-21 23:15:17,581 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-113
+2020-07-21 23:15:17,581 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-113
+2020-07-21 23:15:17,582 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-110
+2020-07-21 23:15:17,582 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-110
+2020-07-21 23:15:17,583 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-110
+2020-07-21 23:15:17,583 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-111
+2020-07-21 23:15:17,583 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-111
+2020-07-21 23:15:17,584 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-111
+2020-07-21 23:15:17,584 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-103
+2020-07-21 23:15:17,585 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-103
+2020-07-21 23:15:17,585 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-103
+2020-07-21 23:15:17,585 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-101
+2020-07-21 23:15:17,586 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-101
+2020-07-21 23:15:17,586 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-101
+2020-07-21 23:15:17,587 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-102
+2020-07-21 23:15:17,587 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-102
+2020-07-21 23:15:17,587 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-102
+2020-07-21 23:15:17,588 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-104
+2020-07-21 23:15:17,588 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-104
+2020-07-21 23:15:17,589 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-104
+2020-07-21 23:15:17,589 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-106
+2020-07-21 23:15:17,589 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-106
+2020-07-21 23:15:17,590 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-106
+2020-07-21 23:15:17,590 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-105
+2020-07-21 23:15:17,591 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-105
+2020-07-21 23:15:17,591 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-105
+2020-07-21 23:15:17,591 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-100
+2020-07-21 23:15:17,592 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-100
+2020-07-21 23:15:17,592 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-100
+2020-07-21 23:15:17,593 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-107
+2020-07-21 23:15:17,593 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-107
+2020-07-21 23:15:17,593 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-107
+2020-07-21 23:15:17,594 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-108
+2020-07-21 23:15:17,594 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-108
+2020-07-21 23:15:17,595 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-108
+2020-07-21 23:15:17,595 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-109
+2020-07-21 23:15:17,595 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-109
+2020-07-21 23:15:17,596 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-109
+2020-07-21 23:15:17,596 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-98
+2020-07-21 23:15:17,596 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-98
+2020-07-21 23:15:17,597 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-98
+2020-07-21 23:15:17,597 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-99
+2020-07-21 23:15:17,598 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-99
+2020-07-21 23:15:17,598 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-99
+2020-07-21 23:15:17,598 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-1
+2020-07-21 23:15:17,599 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-1
+2020-07-21 23:15:17,599 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-1
+2020-07-21 23:15:17,600 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-66
+2020-07-21 23:15:17,600 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-66
+2020-07-21 23:15:17,601 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-66
+2020-07-21 23:15:17,601 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-1
+2020-07-21 23:15:17,601 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-1
+2020-07-21 23:15:17,602 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-1
+2020-07-21 23:15:17,602 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-109
+2020-07-21 23:15:17,602 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-109
+2020-07-21 23:15:17,603 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-109
+2020-07-21 23:15:17,603 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-111
+2020-07-21 23:15:17,604 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-111
+2020-07-21 23:15:17,604 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-111
+2020-07-21 23:15:17,604 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-106
+2020-07-21 23:15:17,605 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-106
+2020-07-21 23:15:17,605 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-106
+2020-07-21 23:15:17,606 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-110
+2020-07-21 23:15:17,606 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-110
+2020-07-21 23:15:17,606 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-110
+2020-07-21 23:15:17,607 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-112
+2020-07-21 23:15:17,607 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-112
+2020-07-21 23:15:17,608 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-112
+2020-07-21 23:15:17,608 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-103
+2020-07-21 23:15:17,608 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-103
+2020-07-21 23:15:17,609 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-103
+2020-07-21 23:15:17,609 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-107
+2020-07-21 23:15:17,610 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-107
+2020-07-21 23:15:17,610 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-107
+2020-07-21 23:15:17,610 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-102
+2020-07-21 23:15:17,611 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-102
+2020-07-21 23:15:17,611 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-102
+2020-07-21 23:15:17,612 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-104
+2020-07-21 23:15:17,612 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-104
+2020-07-21 23:15:17,612 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-104
+2020-07-21 23:15:17,613 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-105
+2020-07-21 23:15:17,613 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-105
+2020-07-21 23:15:17,614 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-105
+2020-07-21 23:15:17,614 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-108
+2020-07-21 23:15:17,614 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-108
+2020-07-21 23:15:17,615 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-108
+2020-07-21 23:15:17,615 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-101
+2020-07-21 23:15:17,616 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-101
+2020-07-21 23:15:17,616 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-101
+2020-07-21 23:15:17,616 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-87
+2020-07-21 23:15:17,617 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-87
+2020-07-21 23:15:17,617 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-87
+2020-07-21 23:15:17,618 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-84
+2020-07-21 23:15:17,618 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-84
+2020-07-21 23:15:17,619 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-84
+2020-07-21 23:15:17,619 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-85
+2020-07-21 23:15:17,619 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-85
+2020-07-21 23:15:17,623 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-85
+2020-07-21 23:15:17,624 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-80
+2020-07-21 23:15:17,624 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-80
+2020-07-21 23:15:17,625 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-80
+2020-07-21 23:15:17,625 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-82
+2020-07-21 23:15:17,625 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-82
+2020-07-21 23:15:17,626 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-82
+2020-07-21 23:15:17,626 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-81
+2020-07-21 23:15:17,627 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-81
+2020-07-21 23:15:17,627 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-81
+2020-07-21 23:15:17,627 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-86
+2020-07-21 23:15:17,628 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-86
+2020-07-21 23:15:17,628 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-86
+2020-07-21 23:15:17,629 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-88
+2020-07-21 23:15:17,629 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-88
+2020-07-21 23:15:17,629 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-88
+2020-07-21 23:15:17,630 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-78
+2020-07-21 23:15:17,630 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-78
+2020-07-21 23:15:17,631 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-78
+2020-07-21 23:15:17,631 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-79
+2020-07-21 23:15:17,631 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-79
+2020-07-21 23:15:17,632 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-79
+2020-07-21 23:15:17,632 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-77
+2020-07-21 23:15:17,633 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-77
+2020-07-21 23:15:17,633 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-77
+2020-07-21 23:15:17,633 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-83
+2020-07-21 23:15:17,634 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-83
+2020-07-21 23:15:17,634 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-83
+2020-07-21 23:15:17,634 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-70
+2020-07-21 23:15:17,635 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-70
+2020-07-21 23:15:17,635 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-70
+2020-07-21 23:15:17,636 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-73
+2020-07-21 23:15:17,636 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-73
+2020-07-21 23:15:17,636 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-73
+2020-07-21 23:15:17,637 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-75
+2020-07-21 23:15:17,637 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-75
+2020-07-21 23:15:17,638 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-75
+2020-07-21 23:15:17,638 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-72
+2020-07-21 23:15:17,638 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-72
+2020-07-21 23:15:17,639 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-72
+2020-07-21 23:15:17,639 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-74
+2020-07-21 23:15:17,640 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-74
+2020-07-21 23:15:17,640 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-74
+2020-07-21 23:15:17,640 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-76
+2020-07-21 23:15:17,641 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-76
+2020-07-21 23:15:17,641 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-76
+2020-07-21 23:15:17,642 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-127
+2020-07-21 23:15:17,654 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-127
+2020-07-21 23:15:17,655 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-127
+2020-07-21 23:15:17,655 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-119
+2020-07-21 23:15:17,655 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-119
+2020-07-21 23:15:17,656 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-119
+2020-07-21 23:15:17,656 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-116
+2020-07-21 23:15:17,657 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-116
+2020-07-21 23:15:17,657 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-116
+2020-07-21 23:15:17,657 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-115
+2020-07-21 23:15:17,658 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-115
+2020-07-21 23:15:17,658 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-115
+2020-07-21 23:15:17,659 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-118
+2020-07-21 23:15:17,659 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-118
+2020-07-21 23:15:17,659 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-118
+2020-07-21 23:15:17,660 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-124
+2020-07-21 23:15:17,660 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-124
+2020-07-21 23:15:17,661 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-124
+2020-07-21 23:15:17,661 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-125
+2020-07-21 23:15:17,661 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-125
+2020-07-21 23:15:17,662 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-125
+2020-07-21 23:15:17,662 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-68
+2020-07-21 23:15:17,663 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-68
+2020-07-21 23:15:17,663 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-68
+2020-07-21 23:15:17,663 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-126
+2020-07-21 23:15:17,664 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-126
+2020-07-21 23:15:17,664 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-126
+2020-07-21 23:15:17,664 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-128
+2020-07-21 23:15:17,665 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-128
+2020-07-21 23:15:17,665 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-128
+2020-07-21 23:15:17,666 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-121
+2020-07-21 23:15:17,666 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-121
+2020-07-21 23:15:17,667 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-121
+2020-07-21 23:15:17,667 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-120
+2020-07-21 23:15:17,667 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-120
+2020-07-21 23:15:17,668 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-120
+2020-07-21 23:15:17,668 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-122
+2020-07-21 23:15:17,668 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-122
+2020-07-21 23:15:17,669 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-122
+2020-07-21 23:15:17,669 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-117
+2020-07-21 23:15:17,670 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-117
+2020-07-21 23:15:17,670 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-117
+2020-07-21 23:15:17,671 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-114
+2020-07-21 23:15:17,671 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-114
+2020-07-21 23:15:17,671 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-114
+2020-07-21 23:15:17,672 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from Black-123
+2020-07-21 23:15:17,672 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-123
+2020-07-21 23:15:17,673 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in Black-123
+2020-07-21 23:15:17,673 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-67
+2020-07-21 23:15:17,673 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-67
+2020-07-21 23:15:17,674 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-67
+2020-07-21 23:15:17,674 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-69
+2020-07-21 23:15:17,675 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-69
+2020-07-21 23:15:17,675 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-69
+2020-07-21 23:15:17,676 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-71
+2020-07-21 23:15:17,676 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-71
+2020-07-21 23:15:17,677 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-71
+2020-07-21 23:15:17,677 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-89
+2020-07-21 23:15:17,677 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-89
+2020-07-21 23:15:17,678 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-89
+2020-07-21 23:15:17,678 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-90
+2020-07-21 23:15:17,679 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-90
+2020-07-21 23:15:17,679 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-90
+2020-07-21 23:15:17,679 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-92
+2020-07-21 23:15:17,680 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-92
+2020-07-21 23:15:17,680 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-92
+2020-07-21 23:15:17,681 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-94
+2020-07-21 23:15:17,681 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-94
+2020-07-21 23:15:17,689 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-94
+2020-07-21 23:15:17,690 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-96
+2020-07-21 23:15:17,690 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-96
+2020-07-21 23:15:17,691 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-96
+2020-07-21 23:15:17,691 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-98
+2020-07-21 23:15:17,691 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-98
+2020-07-21 23:15:17,692 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-98
+2020-07-21 23:15:17,692 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-99
+2020-07-21 23:15:17,693 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-99
+2020-07-21 23:15:17,693 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-99
+2020-07-21 23:15:17,693 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-100
+2020-07-21 23:15:17,694 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-100
+2020-07-21 23:15:17,694 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-100
+2020-07-21 23:15:17,695 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-93
+2020-07-21 23:15:17,695 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-93
+2020-07-21 23:15:17,695 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-93
+2020-07-21 23:15:17,696 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-97
+2020-07-21 23:15:17,696 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-97
+2020-07-21 23:15:17,697 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-97
+2020-07-21 23:15:17,697 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-95
+2020-07-21 23:15:17,697 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-95
+2020-07-21 23:15:17,698 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-95
+2020-07-21 23:15:17,698 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-91
+2020-07-21 23:15:17,698 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-91
+2020-07-21 23:15:17,699 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-91
+2020-07-21 23:15:17,699 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from ChessBoard-1
+2020-07-21 23:15:17,718 INFO  ExportHelperExtension.cs: 1142 - Found 27 in ChessBoard-1
+2020-07-21 23:15:17,719 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in ChessBoard-1
+2020-07-21 23:15:17,719 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-113
+2020-07-21 23:15:17,720 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-113
+2020-07-21 23:15:17,720 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-113
+2020-07-21 23:15:17,720 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [CoordSys] from White-114
+2020-07-21 23:15:17,721 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-114
+2020-07-21 23:15:17,721 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [CoordSys] in White-114
+2020-07-21 23:15:17,723 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ChessBoard_Assembled
+2020-07-21 23:15:17,723 INFO  ExportHelperExtension.cs: 1142 - Found 119 in ChessBoard_Assembled
+2020-07-21 23:15:17,724 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ChessBoard_Assembled
+2020-07-21 23:15:17,724 INFO  ExportHelperExtension.cs: 1155 - Proceeding through assembly components
+2020-07-21 23:15:17,725 INFO  ExportHelperExtension.cs: 1167 - 83 components to check
+2020-07-21 23:15:17,725 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-112
+2020-07-21 23:15:17,726 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-112
+2020-07-21 23:15:17,726 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-112
+2020-07-21 23:15:17,726 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-113
+2020-07-21 23:15:17,727 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-113
+2020-07-21 23:15:17,727 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-113
+2020-07-21 23:15:17,728 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-110
+2020-07-21 23:15:17,728 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-110
+2020-07-21 23:15:17,728 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-110
+2020-07-21 23:15:17,729 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-111
+2020-07-21 23:15:17,729 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-111
+2020-07-21 23:15:17,730 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-111
+2020-07-21 23:15:17,730 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-103
+2020-07-21 23:15:17,730 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-103
+2020-07-21 23:15:17,731 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-103
+2020-07-21 23:15:17,731 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-101
+2020-07-21 23:15:17,732 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-101
+2020-07-21 23:15:17,732 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-101
+2020-07-21 23:15:17,732 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-102
+2020-07-21 23:15:17,733 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-102
+2020-07-21 23:15:17,733 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-102
+2020-07-21 23:15:17,733 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-104
+2020-07-21 23:15:17,734 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-104
+2020-07-21 23:15:17,734 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-104
+2020-07-21 23:15:17,735 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-106
+2020-07-21 23:15:17,735 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-106
+2020-07-21 23:15:17,735 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-106
+2020-07-21 23:15:17,736 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-105
+2020-07-21 23:15:17,736 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-105
+2020-07-21 23:15:17,737 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-105
+2020-07-21 23:15:17,738 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-100
+2020-07-21 23:15:17,739 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-100
+2020-07-21 23:15:17,740 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-100
+2020-07-21 23:15:17,741 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-107
+2020-07-21 23:15:17,742 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-107
+2020-07-21 23:15:17,743 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-107
+2020-07-21 23:15:17,744 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-108
+2020-07-21 23:15:17,744 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-108
+2020-07-21 23:15:17,746 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-108
+2020-07-21 23:15:17,746 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-109
+2020-07-21 23:15:17,747 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-109
+2020-07-21 23:15:17,749 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-109
+2020-07-21 23:15:17,749 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-98
+2020-07-21 23:15:17,750 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-98
+2020-07-21 23:15:17,751 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-98
+2020-07-21 23:15:17,752 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-99
+2020-07-21 23:15:17,753 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-99
+2020-07-21 23:15:17,753 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-99
+2020-07-21 23:15:17,754 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-1
+2020-07-21 23:15:17,754 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-1
+2020-07-21 23:15:17,755 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-1
+2020-07-21 23:15:17,755 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-66
+2020-07-21 23:15:17,755 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-66
+2020-07-21 23:15:17,756 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-66
+2020-07-21 23:15:17,756 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-1
+2020-07-21 23:15:17,757 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-1
+2020-07-21 23:15:17,757 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-1
+2020-07-21 23:15:17,757 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-109
+2020-07-21 23:15:17,758 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-109
+2020-07-21 23:15:17,758 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-109
+2020-07-21 23:15:17,759 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-111
+2020-07-21 23:15:17,759 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-111
+2020-07-21 23:15:17,760 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-111
+2020-07-21 23:15:17,760 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-106
+2020-07-21 23:15:17,760 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-106
+2020-07-21 23:15:17,761 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-106
+2020-07-21 23:15:17,761 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-110
+2020-07-21 23:15:17,762 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-110
+2020-07-21 23:15:17,762 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-110
+2020-07-21 23:15:17,762 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-112
+2020-07-21 23:15:17,763 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-112
+2020-07-21 23:15:17,763 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-112
+2020-07-21 23:15:17,764 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-103
+2020-07-21 23:15:17,764 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-103
+2020-07-21 23:15:17,765 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-103
+2020-07-21 23:15:17,769 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-107
+2020-07-21 23:15:17,770 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-107
+2020-07-21 23:15:17,771 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-107
+2020-07-21 23:15:17,772 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-102
+2020-07-21 23:15:17,773 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-102
+2020-07-21 23:15:17,774 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-102
+2020-07-21 23:15:17,775 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-104
+2020-07-21 23:15:17,776 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-104
+2020-07-21 23:15:17,777 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-104
+2020-07-21 23:15:17,778 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-105
+2020-07-21 23:15:17,778 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-105
+2020-07-21 23:15:17,780 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-105
+2020-07-21 23:15:17,780 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-108
+2020-07-21 23:15:17,781 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-108
+2020-07-21 23:15:17,782 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-108
+2020-07-21 23:15:17,783 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-101
+2020-07-21 23:15:17,783 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-101
+2020-07-21 23:15:17,784 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-101
+2020-07-21 23:15:17,784 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-87
+2020-07-21 23:15:17,784 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-87
+2020-07-21 23:15:17,785 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-87
+2020-07-21 23:15:17,785 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-84
+2020-07-21 23:15:17,786 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-84
+2020-07-21 23:15:17,786 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-84
+2020-07-21 23:15:17,786 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-85
+2020-07-21 23:15:17,787 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-85
+2020-07-21 23:15:17,787 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-85
+2020-07-21 23:15:17,788 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-80
+2020-07-21 23:15:17,788 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-80
+2020-07-21 23:15:17,788 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-80
+2020-07-21 23:15:17,789 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-82
+2020-07-21 23:15:17,789 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-82
+2020-07-21 23:15:17,790 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-82
+2020-07-21 23:15:17,790 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-81
+2020-07-21 23:15:17,790 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-81
+2020-07-21 23:15:17,791 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-81
+2020-07-21 23:15:17,791 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-86
+2020-07-21 23:15:17,791 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-86
+2020-07-21 23:15:17,792 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-86
+2020-07-21 23:15:17,792 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-88
+2020-07-21 23:15:17,793 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-88
+2020-07-21 23:15:17,793 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-88
+2020-07-21 23:15:17,793 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-78
+2020-07-21 23:15:17,794 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-78
+2020-07-21 23:15:17,794 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-78
+2020-07-21 23:15:17,795 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-79
+2020-07-21 23:15:17,795 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-79
+2020-07-21 23:15:17,795 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-79
+2020-07-21 23:15:17,796 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-77
+2020-07-21 23:15:17,796 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-77
+2020-07-21 23:15:17,797 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-77
+2020-07-21 23:15:17,797 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-83
+2020-07-21 23:15:17,797 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-83
+2020-07-21 23:15:17,798 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-83
+2020-07-21 23:15:17,798 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-70
+2020-07-21 23:15:17,798 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-70
+2020-07-21 23:15:17,799 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-70
+2020-07-21 23:15:17,799 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-73
+2020-07-21 23:15:17,800 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-73
+2020-07-21 23:15:17,800 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-73
+2020-07-21 23:15:17,800 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-75
+2020-07-21 23:15:17,801 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-75
+2020-07-21 23:15:17,801 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-75
+2020-07-21 23:15:17,802 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-72
+2020-07-21 23:15:17,802 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-72
+2020-07-21 23:15:17,802 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-72
+2020-07-21 23:15:17,803 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-74
+2020-07-21 23:15:17,803 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-74
+2020-07-21 23:15:17,804 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-74
+2020-07-21 23:15:17,804 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-76
+2020-07-21 23:15:17,804 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-76
+2020-07-21 23:15:17,805 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-76
+2020-07-21 23:15:17,805 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-127
+2020-07-21 23:15:17,813 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-127
+2020-07-21 23:15:17,814 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-127
+2020-07-21 23:15:17,814 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-119
+2020-07-21 23:15:17,814 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-119
+2020-07-21 23:15:17,815 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-119
+2020-07-21 23:15:17,815 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-116
+2020-07-21 23:15:17,816 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-116
+2020-07-21 23:15:17,816 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-116
+2020-07-21 23:15:17,816 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-115
+2020-07-21 23:15:17,817 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-115
+2020-07-21 23:15:17,817 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-115
+2020-07-21 23:15:17,818 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-118
+2020-07-21 23:15:17,818 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-118
+2020-07-21 23:15:17,819 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-118
+2020-07-21 23:15:17,819 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-124
+2020-07-21 23:15:17,819 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-124
+2020-07-21 23:15:17,820 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-124
+2020-07-21 23:15:17,820 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-125
+2020-07-21 23:15:17,821 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-125
+2020-07-21 23:15:17,821 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-125
+2020-07-21 23:15:17,821 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-68
+2020-07-21 23:15:17,822 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-68
+2020-07-21 23:15:17,822 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-68
+2020-07-21 23:15:17,823 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-126
+2020-07-21 23:15:17,823 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-126
+2020-07-21 23:15:17,824 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-126
+2020-07-21 23:15:17,824 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-128
+2020-07-21 23:15:17,824 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-128
+2020-07-21 23:15:17,825 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-128
+2020-07-21 23:15:17,825 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-121
+2020-07-21 23:15:17,826 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-121
+2020-07-21 23:15:17,826 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-121
+2020-07-21 23:15:17,826 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-120
+2020-07-21 23:15:17,827 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-120
+2020-07-21 23:15:17,827 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-120
+2020-07-21 23:15:17,828 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-122
+2020-07-21 23:15:17,828 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-122
+2020-07-21 23:15:17,828 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-122
+2020-07-21 23:15:17,829 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-117
+2020-07-21 23:15:17,829 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-117
+2020-07-21 23:15:17,830 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-117
+2020-07-21 23:15:17,830 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-114
+2020-07-21 23:15:17,837 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-114
+2020-07-21 23:15:17,837 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-114
+2020-07-21 23:15:17,838 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from Black-123
+2020-07-21 23:15:17,838 INFO  ExportHelperExtension.cs: 1142 - Found 24 in Black-123
+2020-07-21 23:15:17,839 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in Black-123
+2020-07-21 23:15:17,839 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-67
+2020-07-21 23:15:17,839 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-67
+2020-07-21 23:15:17,840 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-67
+2020-07-21 23:15:17,840 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-69
+2020-07-21 23:15:17,840 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-69
+2020-07-21 23:15:17,841 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-69
+2020-07-21 23:15:17,841 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-71
+2020-07-21 23:15:17,842 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-71
+2020-07-21 23:15:17,842 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-71
+2020-07-21 23:15:17,842 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-89
+2020-07-21 23:15:17,843 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-89
+2020-07-21 23:15:17,843 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-89
+2020-07-21 23:15:17,844 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-90
+2020-07-21 23:15:17,844 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-90
+2020-07-21 23:15:17,844 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-90
+2020-07-21 23:15:17,845 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-92
+2020-07-21 23:15:17,845 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-92
+2020-07-21 23:15:17,846 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-92
+2020-07-21 23:15:17,846 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-94
+2020-07-21 23:15:17,846 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-94
+2020-07-21 23:15:17,847 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-94
+2020-07-21 23:15:17,847 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-96
+2020-07-21 23:15:17,847 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-96
+2020-07-21 23:15:17,848 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-96
+2020-07-21 23:15:17,848 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-98
+2020-07-21 23:15:17,849 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-98
+2020-07-21 23:15:17,849 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-98
+2020-07-21 23:15:17,849 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-99
+2020-07-21 23:15:17,850 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-99
+2020-07-21 23:15:17,850 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-99
+2020-07-21 23:15:17,850 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-100
+2020-07-21 23:15:17,851 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-100
+2020-07-21 23:15:17,851 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-100
+2020-07-21 23:15:17,852 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-93
+2020-07-21 23:15:17,852 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-93
+2020-07-21 23:15:17,852 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-93
+2020-07-21 23:15:17,853 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-97
+2020-07-21 23:15:17,853 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-97
+2020-07-21 23:15:17,854 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-97
+2020-07-21 23:15:17,854 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-95
+2020-07-21 23:15:17,854 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-95
+2020-07-21 23:15:17,855 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-95
+2020-07-21 23:15:17,855 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-91
+2020-07-21 23:15:17,855 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-91
+2020-07-21 23:15:17,856 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-91
+2020-07-21 23:15:17,856 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from ChessBoard-1
+2020-07-21 23:15:17,857 INFO  ExportHelperExtension.cs: 1142 - Found 27 in ChessBoard-1
+2020-07-21 23:15:17,857 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in ChessBoard-1
+2020-07-21 23:15:17,857 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-113
+2020-07-21 23:15:17,858 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-113
+2020-07-21 23:15:17,858 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-113
+2020-07-21 23:15:17,859 INFO  ExportHelperExtension.cs: 1131 - Retrieving features of type [RefAxis] from White-114
+2020-07-21 23:15:17,859 INFO  ExportHelperExtension.cs: 1142 - Found 24 in White-114
+2020-07-21 23:15:17,859 INFO  ExportHelperExtension.cs: 1152 - Found 0 features of type [RefAxis] in White-114
+2020-07-21 23:15:17,907 INFO  ExportPropertyManager.cs: 1184 - AfterClose called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2020-07-21 23:15:31,509 INFO  AssemblyExportForm.cs: 254 - Completing URDF export
+2020-07-21 23:15:31,553 INFO  Serialization.cs: 275 - URDF Configuration found
+<Link z:Id="i1" xmlns="http://schemas.datacontract.org/2004/07/SW2URDF" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><Attributes><Attribute z:Id="i2"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">base_link</Value></Attribute></Attributes><ChildElements><URDFElement z:Id="i3" i:type="Inertial"><Attributes/><ChildElements><URDFElement z:Id="i4" i:type="Origin"><Attributes><Attribute z:Id="i5"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i6"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i6"/><XYZAttribute z:Ref="i5"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i7" i:type="Mass"><Attributes><Attribute z:Id="i8"><AttributeType>value</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>mass</ElementName><required>false</required><ValueAttribute z:Ref="i8"/></URDFElement><URDFElement z:Id="i9" i:type="Inertia"><Attributes><Attribute z:Id="i10"><AttributeType>ixx</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i11"><AttributeType>ixy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i12"><AttributeType>ixz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i13"><AttributeType>iyy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i14"><AttributeType>iyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i15"><AttributeType>izz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>inertia</ElementName><required>false</required><IxxAttribute z:Ref="i10"/><IxyAttribute z:Ref="i11"/><IxzAttribute z:Ref="i12"/><IyyAttribute z:Ref="i13"/><IyzAttribute z:Ref="i14"/><IzzAttribute z:Ref="i15"/></URDFElement></ChildElements><ElementName>inertial</ElementName><required>false</required><Inertia z:Ref="i9"/><Mass z:Ref="i7"/><Origin z:Ref="i4"/></URDFElement><URDFElement z:Id="i16" i:type="Visual"><Attributes/><ChildElements><URDFElement z:Id="i17" i:type="Origin"><Attributes><Attribute z:Id="i18"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i19"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i19"/><XYZAttribute z:Ref="i18"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i20" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i21" i:type="Mesh"><Attributes><Attribute z:Id="i22"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i22"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i21"/></URDFElement><URDFElement z:Id="i23" i:type="Material"><Attributes><Attribute z:Id="i24"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i25" i:type="Color"><Attributes><Attribute z:Id="i26"><AttributeType>rgba</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>color</ElementName><required>false</required><RGBAAttribute z:Ref="i26"/></URDFElement><URDFElement z:Id="i27" i:type="Texture"><Attributes><Attribute z:Id="i28"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>texture</ElementName><required>false</required><FilenameAttribute z:Ref="i28"/><wFilename/></URDFElement></ChildElements><ElementName>material</ElementName><required>false</required><Color z:Ref="i25"/><NameAttribute z:Ref="i24"/><Texture z:Ref="i27"/></URDFElement></ChildElements><ElementName>visual</ElementName><required>false</required><Geometry z:Ref="i20"/><Material z:Ref="i23"/><Origin z:Ref="i17"/></URDFElement><URDFElement z:Id="i29" i:type="Collision"><Attributes/><ChildElements><URDFElement z:Id="i30" i:type="Origin"><Attributes><Attribute z:Id="i31"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i32"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i32"/><XYZAttribute z:Ref="i31"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i33" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i34" i:type="Mesh"><Attributes><Attribute z:Id="i35"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i35"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i34"/></URDFElement></ChildElements><ElementName>collision</ElementName><required>false</required><Geometry z:Ref="i33"/><Origin z:Ref="i30"/></URDFElement><URDFElement z:Id="i36" i:type="Joint"><Attributes><Attribute z:Id="i37"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute><Attribute z:Id="i38"><AttributeType>type</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i39" i:type="Origin"><Attributes><Attribute z:Id="i40"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i41"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i41"/><XYZAttribute z:Ref="i40"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i42" i:type="ParentLink"><Attributes><Attribute z:Id="i43"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>parent</ElementName><required>true</required><NameAttribute z:Ref="i43"/></URDFElement><URDFElement z:Id="i44" i:type="ChildLink"><Attributes><Attribute z:Id="i45"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>child</ElementName><required>true</required><NameAttribute z:Ref="i45"/></URDFElement><URDFElement z:Id="i46" i:type="Axis"><Attributes><Attribute z:Id="i47"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>axis</ElementName><required>false</required><XYZAttribute z:Ref="i47"/></URDFElement><URDFElement z:Id="i48" i:type="Limit"><Attributes><Attribute z:Id="i49"><AttributeType>lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i50"><AttributeType>upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i51"><AttributeType>effort</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i52"><AttributeType>velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>limit</ElementName><required>false</required><EffortAttribute z:Ref="i51"/><LowerAttribute z:Ref="i49"/><UpperAttribute z:Ref="i50"/><VelocityAttribute z:Ref="i52"/></URDFElement><URDFElement z:Id="i53" i:type="Calibration"><Attributes><Attribute z:Id="i54"><AttributeType>rising</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i55"><AttributeType>falling</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>calibration</ElementName><required>false</required><FallingAttribute z:Ref="i55"/><RisingAttribute z:Ref="i54"/></URDFElement><URDFElement z:Id="i56" i:type="Dynamics"><Attributes><Attribute z:Id="i57"><AttributeType>damping</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i58"><AttributeType>friction</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>dynamics</ElementName><required>false</required><DampingAttribute z:Ref="i57"/><FrictionAttribute z:Ref="i58"/></URDFElement><URDFElement z:Id="i59" i:type="SafetyController"><Attributes><Attribute z:Id="i60"><AttributeType>soft_upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i61"><AttributeType>soft_lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i62"><AttributeType>k_position</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i63"><AttributeType>k_velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>safety_controller</ElementName><required>false</required><KPositionAttribute z:Ref="i62"/><KVelocityAttribute z:Ref="i63"/><SoftLowerAttribute z:Ref="i61"/><SoftUpperAttribute z:Ref="i60"/></URDFElement><URDFElement z:Id="i64" i:type="Mimic"><Attributes><Attribute z:Id="i65"><AttributeType>joint</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i66"><AttributeType>multiplier</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i67"><AttributeType>offset</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mimic</ElementName><required>false</required><JointNameAttribute z:Ref="i65"/><MultiplierAttribute z:Ref="i66"/><OffsetAttribute z:Ref="i67"/></URDFElement></ChildElements><ElementName>joint</ElementName><required>false</required><Axis z:Ref="i46"/><AxisName/><Calibration z:Ref="i53"/><Child z:Ref="i44"/><CoordinateSystemName>Automatically Generate</CoordinateSystemName><Dynamics z:Ref="i56"/><Limit z:Ref="i48"/><Mimic z:Ref="i64"/><NameAttribute z:Ref="i37"/><Origin z:Ref="i39"/><Parent z:Ref="i42"/><Safety z:Ref="i59"/><TypeAttribute z:Ref="i38"/></URDFElement></ChildElements><ElementName>link</ElementName><required>true</required><Children/><Collision z:Ref="i29"/><Inertial z:Ref="i3"/><Joint z:Ref="i36"/><NameAttribute z:Ref="i2"/><Parent i:nil="true"/><STLQualityFine>false</STLQualityFine><SWComponentPIDs xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAxADQAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAACMBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAxADMAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAACIBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8hQwBoAGUAcwBzAEIAbwBhAHIAZAAtADEAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAACQBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQAxAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAMAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQA1AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAQAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQA3AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAASAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQAzAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAOAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADAAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABUBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQA5AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAUAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQA4AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAATAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQA2AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAARAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQA0AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAPAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQAyAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAANAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOQAwAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAALAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAA5AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAKAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwAxAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD4AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANgA5AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD2AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANgA3AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD0AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADMAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAO0AAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADQAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOQAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADcAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOcAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADIAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOwAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADAAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOoAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADEAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOsAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADgAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAPIAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADYAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAPAAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANgA4AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD1AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADUAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAO8AAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADQAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAO4AAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADgAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOgAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADUAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOUAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADYAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOYAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADkAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOkAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAyADcAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAPEAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwA2AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD9AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwA0AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD7AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwAyAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD5AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwA1AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD8AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwAzAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD6AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwAwAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD3AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAAzAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAEAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwA3AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD+AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwA5AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAAAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANwA4AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAD/AAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAA4AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAJAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAA2AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAHAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAAxAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAACAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAAyAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAADAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAAwAEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAABAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAA1AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAGAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAA0AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAFAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0AOAA3AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAAAIAQAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADEAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABYBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADgAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAB0BAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADUAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABoBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADQAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABkBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADIAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABcBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADcAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABwBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADMAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABgBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAxADIAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAACEBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAxADAAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAB8BAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADYAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAABsBAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAxADEAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAACABAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eVwBoAGkAdABlAC0AMQAwADkAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAB4BAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8cVwBoAGkAdABlAC0AMQBAAEMAaABlAHMAcwBCAG8AYQByAGQAXwBBAHMAcwBlAG0AYgBsAGUAZAAEAAAAEAAAAAEAAAABAAAAGAAAAA==</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dVwBoAGkAdABlAC0ANgA2AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAACjAAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8cQgBsAGEAYwBrAC0AMQBAAEMAaABlAHMAcwBCAG8AYQByAGQAXwBBAHMAcwBlAG0AYgBsAGUAZAAEAAAAEAAAAAEAAAABAAAAFwAAAA==</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dQgBsAGEAYwBrAC0AOQA5AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAADVAAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8dQgBsAGEAYwBrAC0AOQA4AEAAQwBoAGUAcwBzAEIAbwBhAHIAZABfAEEAcwBzAGUAbQBiAGwAZQBkAAQAAAAQAAAAAQAAAAEAAADUAAAA</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADkAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAN8AAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADgAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAN4AAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADcAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAN0AAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADAAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAANYAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADUAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAANsAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADYAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAANwAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADQAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAANoAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADIAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAANgAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADEAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAANcAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAwADMAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAANkAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADEAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOEAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADAAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOAAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADMAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOMAAAA=</a:base64Binary><a:base64Binary>+CoAAAUAAAD//v8eQgBsAGEAYwBrAC0AMQAxADIAQABDAGgAZQBzAHMAQgBvAGEAcgBkAF8AQQBzAHMAZQBtAGIAbABlAGQABAAAABAAAAABAAAAAQAAAOIAAAA=</a:base64Binary></SWComponentPIDs><SWMainComponentPID i:nil="true"/><Visual z:Ref="i16"/><isFixedFrame>false</isFixedFrame><isIncomplete>false</isIncomplete></Link>
+2020-07-21 23:15:42,633 INFO  AssemblyExportForm.cs: 308 - Saving URDF package to C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled
+2020-07-21 23:15:42,635 INFO  ExportHelper.cs: 147 - Beginning the export process
+2020-07-21 23:15:42,637 INFO  ExportHelper.cs: 153 - Creating package directories with name ChessBoard_Assembled and save path C:\Users\rohan\OneDrive\Desktop
+2020-07-21 23:15:47,614 INFO  ExportHelper.cs: 162 - Creating CMakeLists.txt at C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\CMakeLists.txt
+2020-07-21 23:15:47,625 INFO  ExportHelper.cs: 166 - Creating joint names config at C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\config\joint_names_ChessBoard_Assembled.yaml
+2020-07-21 23:15:47,626 INFO  ExportHelper.cs: 170 - Creating package.xml at C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\package.xml
+2020-07-21 23:15:47,627 INFO  PackageXMLWriter.cs: 21 - Creating package.xml at C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\package.xml
+2020-07-21 23:15:47,629 INFO  ExportHelper.cs: 177 - Creating RVIZ launch file in C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\launch\
+2020-07-21 23:15:47,631 INFO  ExportHelper.cs: 182 - Creating Gazebo launch file in C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\launch\
+2020-07-21 23:15:47,632 INFO  ExportHelper.cs: 187 - Saving existing STL preferences
+2020-07-21 23:15:47,632 INFO  ExportHelper.cs: 451 - Saving users preferences
+2020-07-21 23:15:47,633 INFO  ExportHelper.cs: 190 - Modifying STL preferences
+2020-07-21 23:15:47,633 INFO  ExportHelper.cs: 465 - Setting STL preferences
+2020-07-21 23:15:47,641 INFO  ExportHelper.cs: 196 - Found 0 hidden components 
+2020-07-21 23:15:47,641 INFO  ExportHelper.cs: 197 - Hiding all components
+2020-07-21 23:15:47,893 INFO  ExportHelper.cs: 204 - Beginning individual files export
+2020-07-21 23:15:47,895 INFO  ExportHelper.cs: 270 - Exporting link: base_link
+2020-07-21 23:15:47,895 INFO  ExportHelper.cs: 272 - Link base_link has 0 children
+2020-07-21 23:15:47,896 INFO  ExportHelper.cs: 145 - Showing all components except previously hidden components
+2020-07-21 23:15:48,311 INFO  ExportHelper.cs: 145 - Resetting STL preferences
+2020-07-21 23:15:48,311 INFO  ExportHelper.cs: 479 - Returning STL preferences to user preferences
+2020-07-21 23:15:48,312 INFO  ExportHelper.cs: 228 - Writing URDF file to C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\urdf\ChessBoard_Assembled.urdf
+2020-07-21 23:15:48,316 INFO  CSVImportExport.cs: 32 - Writing CSV file C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\urdf\ChessBoard_Assembled.csv
+2020-07-21 23:15:48,337 ERROR CSVImportExport.cs: 132 - The following columns were not written to the CSV: Link.Joint.ChildLink.link,
+2020-07-21 23:15:48,338 INFO  ExportHelper.cs: 234 - Copying log file
+2020-07-21 23:15:48,341 INFO  ExportHelper.cs: 440 - Copying C:\Users\rohan\sw2urdf_logs\sw2urdf.log to C:\Users\rohan\OneDrive\Desktop\ChessBoard_Assembled\export.log
